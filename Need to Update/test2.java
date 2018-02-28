@@ -1,7 +1,9 @@
+
+// https://open.kattis.com/problems/stararrangements
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class test2 {
+public class stararrangements {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
