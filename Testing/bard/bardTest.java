@@ -34,12 +34,12 @@ public class bardTest {
 
                 // System.out.println(people);
             } else {
-                TreeSet<Integer> share = new TreeSet<>();
+                TreeSet<String> share = new TreeSet<>();
                 for (int x : who) {
                     String songsListen = people.get(x);
                     String[] nums = songsListen.split(" ");
                     for (String s : nums)
-                        share.add(Integer.parseInt(s));
+                        share.add(s);
 
                     // for (int s = 0; s < songsListen.length(); s++)
                     //     if (canParse("" + songsListen.charAt(s)))
