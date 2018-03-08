@@ -21,9 +21,8 @@ public class bard {
             int present = sc.nextInt();
             ArrayList<Integer> who = new ArrayList<>();
 
-            while (present-- > 0) {
+            while (present-- > 0)
                 who.add(sc.nextInt());
-            }
 
             if (who.contains(1)) {
                 songs++;
