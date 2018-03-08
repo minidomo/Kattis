@@ -12,7 +12,7 @@ public class gen {
         System.out.println(evenings);
 
         while (evenings-- > 0) {
-            int present = rand.nextInt(villagers - 2) + 2;
+            int present = rand.nextInt(villagers - 1) + 2;
             System.out.print(present + " ");
             ArrayList<Integer> who = new ArrayList<>();
             while (present-- > 0) {
