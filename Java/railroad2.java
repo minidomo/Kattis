@@ -1,3 +1,4 @@
+
 // https://open.kattis.com/problems/railroad2
 import java.util.Scanner;
 
