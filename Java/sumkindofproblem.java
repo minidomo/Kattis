@@ -1,3 +1,5 @@
+
+// https://open.kattis.com/problems/sumkindofproblem
 import java.util.Scanner;
 
 public class sumkindofproblem {
