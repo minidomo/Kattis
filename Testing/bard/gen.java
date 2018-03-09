@@ -21,6 +21,7 @@ public class gen {
                 int present = rand.nextInt(villagers - 1) + 2;
                 presentEachNight.add(present);
                 ArrayList<Integer> who = new ArrayList<>();
+
                 while (present-- > 0) {
                     int random = rand.nextInt(villagers) + 1;
                     if (!who.contains(random)) {
@@ -30,18 +31,22 @@ public class gen {
                         present++;
                     }
                 }
-                if (attended.contains(1))
-                    count++;
             }
-            temp = evenings;
+            if (attended.contains(1))
+                count++;
+            else
+                temp = evenings;
         }
+
         for (int x = 0; x < presentEachNight.size(); x++) {
             int present = presentEachNight.get(x);
             System.out.print(present + " ");
+
             for (int s = 0; s < present; s++) {
                 System.out.print(attended.get(0) + " ");
                 attended.remove(0);
             }
+
             System.out.println();
         }
     }
