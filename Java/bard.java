@@ -1,7 +1,6 @@
 
 // https://open.kattis.com/problems/bard
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
@@ -32,16 +31,17 @@ public class bard {
                 for (int x : who)
                     people.put(x, people.get(x) + " " + songs);
             } else {
-                TreeSet<String> share = new TreeSet<>();
+                TreeSet<Integer> share = new TreeSet<>();
                 for (int x : who) {
                     String songsListen = people.get(x);
                     String[] nums = songsListen.split(" ");
-                    Collections.addAll(share, nums);
+                    for (String s : nums)
+                        share.add(Integer.parseInt(s));
                 }
                 String replace = "";
-                String[] nums = new String[share.size()];
+                int[] nums = new int[share.size()];
                 int a = 0;
-                for (String s : share)
+                for (int s : share)
                     nums[a++] = s;
 
                 for (int x = 0; x < nums.length; x++)
