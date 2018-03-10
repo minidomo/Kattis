@@ -24,13 +24,12 @@ public class beekeeper {
             for (String s : words) {
                 String temp = s;
                 for (int x = 0; x < 2; x++)
-                    for (int a = 0; a < vowels.length; a++) {
+                    for (int a = 0; a < vowels.length; a++)
                         if (temp.contains(vowels[a])) {
                             int index = temp.indexOf(vowels[a]);
                             temp = new StringBuilder(temp).replace(index, index + 2, "00").toString();
                             score[q]++;
                         }
-                    }
                 q++;
             }
 
