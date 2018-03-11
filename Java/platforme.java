@@ -27,11 +27,10 @@ public class platforme {
 
             for (int x = 0; x < platforms; x++) {
                 int y2 = yCoords[x];
-                String[] temp2 = ranges[x].split(" ");
-                double lx = Double.parseDouble(temp2[0]);
-                double rx = Double.parseDouble(temp2[1]);
-
                 if (y1 > y2) {
+                    String[] temp2 = ranges[x].split(" ");
+                    double lx = Double.parseDouble(temp2[0]);
+                    double rx = Double.parseDouble(temp2[1]);
                     if (x1 >= lx && x1 <= rx && y2 > leftPillar)
                         leftPillar = y2;
                     if (x2 >= lx && x2 <= rx && y2 > rightPillar)
