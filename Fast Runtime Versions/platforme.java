@@ -1,4 +1,5 @@
 
+// 0.06 s
 // https://open.kattis.com/problems/platforme
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
