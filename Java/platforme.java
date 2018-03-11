@@ -1,7 +1,5 @@
 
 // https://open.kattis.com/problems/platforme
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class platforme {
@@ -16,8 +14,6 @@ public class platforme {
             yCoords[x] = sc.nextInt();
             ranges[x] = (sc.nextDouble() + .5) + " " + (sc.nextDouble() - .5);
         }
-
-        ranges = numPartnerSort(yCoords, ranges);
 
         int total = 0;
 
@@ -36,9 +32,9 @@ public class platforme {
                 double rx = Double.parseDouble(temp2[1]);
 
                 if (y1 > y2) {
-                    if (x1 >= lx && x1 <= rx)
+                    if (x1 >= lx && x1 <= rx && y2 > leftPillar)
                         leftPillar = y2;
-                    if (x2 >= lx && x2 <= rx)
+                    if (x2 >= lx && x2 <= rx && y2 > rightPillar)
                         rightPillar = y2;
                 }
             }
@@ -46,37 +42,5 @@ public class platforme {
         }
         System.out.println(total);
         sc.close();
-    }
-
-    private static String[] numPartnerSort(int[] key, String[] value) {
-        // similar to the way a treemap sorts but with duplicates
-        ArrayList<Integer> keyList = new ArrayList<>();
-        ArrayList<String> valueList = new ArrayList<>();
-        ArrayList<String> sorted = new ArrayList<>();
-
-        for (int x = 0; x < key.length; x++) {
-            keyList.add(key[x]);
-            valueList.add(value[x]);
-        }
-
-        while (keyList.size() != 0) {
-            int small = keyList.get(0);
-            int index = 0;
-            for (int x = 0; x < keyList.size(); x++)
-                if (keyList.get(x) < small) {
-                    small = keyList.get(x);
-                    index = x;
-                }
-            keyList.remove(index);
-            sorted.add(valueList.remove(index));
-        }
-
-        String[] sortVal = new String[sorted.size()];
-        int i = 0;
-        for (String s : sorted)
-            sortVal[i++] = s;
-
-        Arrays.sort(key);
-        return sortVal;
     }
 }
