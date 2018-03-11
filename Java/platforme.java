@@ -7,30 +7,32 @@ public class platforme {
         Scanner sc = new Scanner(System.in);
 
         int platforms = sc.nextInt();
+        sc.nextLine();
         int[] yCoords = new int[platforms];
-        String[] ranges = new String[platforms];
+        double[] leftx = new double[platforms];
+        double[] rightx = new double[platforms];
 
         for (int x = 0; x < platforms; x++) {
-            yCoords[x] = sc.nextInt();
-            ranges[x] = (sc.nextDouble() + .5) + " " + (sc.nextDouble() - .5);
+            String[] temp = sc.nextLine().split(" ");
+            yCoords[x] = Integer.parseInt(temp[0]);
+            leftx[x] = Double.parseDouble(temp[1]) + .5;
+            rightx[x] = Double.parseDouble(temp[2]) - .5;
         }
 
         int total = 0;
 
         for (int s = 0; s < platforms; s++) {
             int y1 = yCoords[s];
-            String[] temp1 = ranges[s].split(" ");
-            double x1 = Double.parseDouble(temp1[0]);
-            double x2 = Double.parseDouble(temp1[1]);
+            double x1 = leftx[s];
+            double x2 = rightx[s];
             int leftPillar = 0;
             int rightPillar = 0;
 
             for (int x = 0; x < platforms; x++) {
                 int y2 = yCoords[x];
                 if (y1 > y2) {
-                    String[] temp2 = ranges[x].split(" ");
-                    double lx = Double.parseDouble(temp2[0]);
-                    double rx = Double.parseDouble(temp2[1]);
+                    double lx = leftx[x];
+                    double rx = rightx[x];
                     if (x1 >= lx && x1 <= rx && y2 > leftPillar)
                         leftPillar = y2;
                     if (x2 >= lx && x2 <= rx && y2 > rightPillar)
