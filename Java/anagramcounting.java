@@ -10,14 +10,13 @@ public class anagramcounting {
         Scanner sc = new Scanner(System.in);
 
         while (sc.hasNextLine()) {
-            String word = sc.nextLine();
-            ArrayList<Character> letters = new ArrayList<>();
-            for (int x = 0; x < word.length(); x++)
-                letters.add(word.charAt(x));
+            String[] letters = sc.nextLine().toCharArray();
 
-            HashSet<Character> uniqueLetters = new HashSet<>(letters);
+            HashSet<Character> uniqueLetters = new HashSet<>();
+            for (char s : letters)
+                uniqueLetters.add(s);
 
-            BigInteger length = factorial(BigInteger.valueOf(word.length()));
+            BigInteger length = factorial(BigInteger.valueOf(letters.length));
 
             for (char a : uniqueLetters) {
                 BigInteger count = BigInteger.ZERO;
