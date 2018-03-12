@@ -15,8 +15,7 @@ public class gen {
         ArrayList<Integer> presentEachNight = new ArrayList<>();
         ArrayList<Integer> attended = new ArrayList<>();
 
-        int count = 0;
-        while (count < 1) {
+        while (true) {
             while (temp-- > 0) {
                 int present = rand.nextInt(villagers - 1) + 2;
                 presentEachNight.add(present);
@@ -33,7 +32,7 @@ public class gen {
                 }
             }
             if (attended.contains(1))
-                count++;
+                break;
             else
                 temp = evenings;
         }
