@@ -1,4 +1,5 @@
 
+// Runtime: 0.10 s
 // https://open.kattis.com/problems/birds
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
