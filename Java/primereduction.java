@@ -44,18 +44,14 @@ public class primereduction {
     }
 
     private static int[] factors(int a) {
-        ArrayList<Integer> nums = new ArrayList<>();
+        int[] arr = new int[2];
         int half = a / 2;
         for (int x = 2; x <= half; x++)
             if (a % x == 0) {
-                nums.add(x);
-                nums.add(a / x);
+                arr[0] = x;
+                arr[1] = a / x;
                 break;
             }
-        int[] arr = new int[nums.size()];
-        int i = 0;
-        for (int s : nums)
-            arr[i++] = s;
         return arr;
     }
 
