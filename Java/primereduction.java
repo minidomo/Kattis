@@ -29,13 +29,12 @@ public class primereduction {
         if (isPrime(a))
             nums.add(a);
         else {
-            int temp = a;
-            while (!isPrime(temp)) {
-                int[] arr = factors(temp);
+            while (!isPrime(a)) {
+                int[] arr = factors(a);
                 nums.add(arr[0]);
-                temp = arr[1];
+                a = arr[1];
             }
-            nums.add(temp);
+            nums.add(a);
         }
         int[] arr = new int[nums.size()];
         int i = 0;
