@@ -1,4 +1,5 @@
 
+// Runtime: 0.07 s
 // https://open.kattis.com/problems/primematrix
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
