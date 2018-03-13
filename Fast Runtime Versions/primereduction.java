@@ -33,16 +33,12 @@ public class primereduction {
 
     private static int[] intoPrimes(int a) {
         ArrayList<Integer> nums = new ArrayList<>();
-        if (isPrime(a))
-            nums.add(a);
-        else {
-            while (!isPrime(a)) {
-                int[] arr = factors(a);
-                nums.add(arr[0]);
-                a = arr[1];
-            }
-            nums.add(a);
+        while (!isPrime(a)) {
+            int[] arr = factors(a);
+            nums.add(arr[0]);
+            a = arr[1];
         }
+        nums.add(a);
         int[] arr = new int[nums.size()];
         int i = 0;
         for (int s : nums)
