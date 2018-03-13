@@ -1,5 +1,5 @@
 
-// Runtime: 0.48 s
+// Runtime: 0.40 s
 // https://open.kattis.com/problems/primereduction
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
@@ -36,13 +36,12 @@ public class primereduction {
         if (isPrime(a))
             nums.add(a);
         else {
-            int temp = a;
-            while (!isPrime(temp)) {
-                int[] arr = factors(temp);
+            while (!isPrime(a)) {
+                int[] arr = factors(a);
                 nums.add(arr[0]);
-                temp = arr[1];
+                a = arr[1];
             }
-            nums.add(temp);
+            nums.add(a);
         }
         int[] arr = new int[nums.size()];
         int i = 0;
@@ -52,18 +51,14 @@ public class primereduction {
     }
 
     private static int[] factors(int a) {
-        ArrayList<Integer> nums = new ArrayList<>();
+        int[] arr = new int[2];
         int half = a / 2;
         for (int x = 2; x <= half; x++)
             if (a % x == 0) {
-                nums.add(x);
-                nums.add(a / x);
+                arr[0] = x;
+                arr[1] = a / x;
                 break;
             }
-        int[] arr = new int[nums.size()];
-        int i = 0;
-        for (int s : nums)
-            arr[i++] = s;
         return arr;
     }
 
