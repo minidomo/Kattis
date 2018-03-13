@@ -1,3 +1,5 @@
+
+// Runtime: 0.48 s
 // https://open.kattis.com/problems/primereduction
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
