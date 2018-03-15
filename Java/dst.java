@@ -28,7 +28,6 @@ public class dst {
                     mins += 60;
                     count++;
                 }
-                mins %= 60;
                 hours -= count;
                 if (hours < 0)
                     hours += 24;
