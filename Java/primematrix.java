@@ -25,7 +25,7 @@ public class primematrix {
             int i = nums.size() - 1;
             checkPrime: 
             while (!isPrime(sum)) {
-                while (nums.get(i) >= limit) {
+                while (nums.get(i) == limit) {
                     i--;
                     limit--;
                     if (i == -1)
