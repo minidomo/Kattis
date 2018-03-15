@@ -39,7 +39,6 @@ public class primematrix {
             if (i == -1)
                 System.out.println("impossible");
             else {
-
                 for (int x = 0; x < size; x++) {
                     for (int s = 0; s < size; s++)
                         System.out.print(nums.get(s) + " ");
