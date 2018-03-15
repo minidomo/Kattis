@@ -20,24 +20,20 @@ public class permutedarithmeticsequence {
             boolean passed = false;
 
             for (int x = 1; x < length - 1; x++) {
-                if (num[x] - num[x + 1] != diff) {
-                    passed = false;
+                if (num[x] - num[x + 1] != diff)
                     break;
-                } else {
+                else
                     passed = true;
-                }
             }
 
             if (!passed) {
                 Arrays.sort(num);
                 diff = num[0] - num[1];
                 for (int x = 1; x < length - 1; x++) {
-                    if (num[x] - num[x + 1] != diff) {
-                        passed = false;
+                    if (num[x] - num[x + 1] != diff)
                         break;
-                    } else {
+                    else
                         passed = true;
-                    }
                 }
                 System.out.println(passed ? "permuted arithmetic" : "non-arithmetic");
             } else {
