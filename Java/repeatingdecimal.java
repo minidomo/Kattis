@@ -1,5 +1,5 @@
 
-// https://open.kattis.com/problems/inversefactorial
+// https://open.kattis.com/problems/repeatingdecimal
 import java.util.Scanner;
 
 public class repeatingdecimal {
