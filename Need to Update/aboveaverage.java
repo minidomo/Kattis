@@ -10,12 +10,10 @@ public class aboveaverage {
         while (cases-- > 0) {
             double students = sc.nextDouble();
             int[] grades = new int[(int) students];
-            int i = 0;
             double sum = 0;
             for (int x = 0; x < students; x++) {
-                int person = sc.nextInt();
-                sum += person;
-                grades[i++] = person;
+                grades[x] = sc.nextInt();
+                sum += grades[x];
             }
             sum /= students;
             double count = 0;
