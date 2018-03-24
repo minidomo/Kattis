@@ -10,15 +10,15 @@ public class aboveaverage {
         while (cases-- > 0) {
             double students = sc.nextDouble();
             int[] grades = new int[(int) students];
-            double sum = 0;
+            double average = 0;
             for (int x = 0; x < students; x++) {
                 grades[x] = sc.nextInt();
-                sum += grades[x];
+                average += grades[x];
             }
-            sum /= students;
+            average /= students;
             double count = 0;
             for (int s : grades)
-                if (s > sum)
+                if (s > average)
                     count++;
             System.out.printf("%.3f%s", (count / students) * 100, "%\n");
         }
