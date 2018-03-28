@@ -20,7 +20,7 @@ public class parsinghex {
                 for (i += 2; i < chars.length && ((chars[i] >= 'a' && chars[i] <= 'f')
                         || (chars[i] >= 'A' && chars[i] <= 'F') || (chars[i] >= '0' && chars[i] <= '9')); i++)
                     hex += chars[i];
-                System.out.print(hex + " " + Long.decode(hex) + "\n");
+                System.out.println(hex + " " + Long.decode(hex));
             }
         }
         sc.close();
