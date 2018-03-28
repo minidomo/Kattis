@@ -1,16 +1,16 @@
 
-Runtime: 0.08 s
+Runtime: 0.07 s
 // https://open.kattis.com/problems/parsinghex
-import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStream;
+import java.io.OutputStreamWriter;
 
 public class parsinghex {
     public static void main(String[] args) throws IOException {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
-        OutputStream dc = new BufferedOutputStream(System.out);
+        BufferedWriter dc = new BufferedWriter(new OutputStreamWriter(System.out));
 
         while (sc.ready()) {
             boolean zero = false;
@@ -33,14 +33,14 @@ public class parsinghex {
                     else {
                         record = false;
                         if (hex.length() > 2) {
-                            dc.write((hex + " " + Long.decode(hex) + "\n").getBytes());
+                            dc.write(hex + " " + Long.decode(hex) + "\n");
                             hex = "0x";
                         }
                     }
                 }
             }
             if (record)
-                dc.write((hex + " " + Long.decode(hex) + "\n").getBytes());
+                dc.write(hex + " " + Long.decode(hex) + "\n");
         }
         sc.close();
         dc.flush();
