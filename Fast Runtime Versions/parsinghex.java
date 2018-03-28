@@ -1,5 +1,5 @@
 
-Runtime: 0.07 s
+// Runtime: 0.07 s
 // https://open.kattis.com/problems/parsinghex
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
