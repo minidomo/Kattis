@@ -1,6 +1,6 @@
 
 // Runtime: 0.10 s
-// https://open.kattis.com/problems/anagramcountings
+// https://open.kattis.com/problems/anagramcounting
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
 import java.io.IOException;
