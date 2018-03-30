@@ -59,29 +59,21 @@ public class i2048 {
     }
 
     private static int[][] right(int[][] arr) {
-        return reverse(reverse(left(rotate(rotate(arr)))));
+        return rotate(rotate(left(rotate(rotate(arr)))));
     }
 
     private static int[][] up(int[][] arr) {
-        return reverse(left(rotate(arr)));
+        return rotate(rotate(rotate(left(rotate(arr)))));
     }
 
     private static int[][] down(int[][] arr) {
-        return reverse(right(rotate(arr)));
+        return rotate(left(rotate(rotate(rotate(arr)))));
     }
 
     private static int[][] rotate(int[][] arr) {
         int[][] temp = new int[4][4];
         for (int c = 3, row = 0; c >= 0; c--, row++)
             for (int r = 0, col = 0; r < 4; r++, col++)
-                temp[row][col] = arr[r][c];
-        return temp;
-    }
-
-    private static int[][] reverse(int[][] arr) {
-        int[][] temp = new int[4][4];
-        for (int r = 0, col = 3; r < 4; r++, col--)
-            for (int c = 0, row = 0; c < 4; c++, row++)
                 temp[row][col] = arr[r][c];
         return temp;
     }
