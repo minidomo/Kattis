@@ -1,4 +1,5 @@
 
+// Runtime: 0.05 s
 // https://open.kattis.com/problems/different
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
