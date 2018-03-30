@@ -1,5 +1,5 @@
 
-// https://open.kattis.com/problems/anagramcountings
+// https://open.kattis.com/problems/anagramcounting
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.HashSet;
