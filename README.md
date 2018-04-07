@@ -1,5 +1,6 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.  
+
 | Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/i2048.java) |
