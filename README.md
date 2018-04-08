@@ -1,9 +1,6 @@
-# Kattis Solutions
-Some solutions may be outdated and could be improved.  
-
 | Problems | Languages |
 | - | - |
-| [2048](https://open.kattis.com/problems/2048) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/i2048.java) |
+| [2048](https://open.kattis.com/problems/2048) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/i2048.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/i2048.cs) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
 | [A Towering Problem](https://open.kattis.com/problems/towering) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/towering.java) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/aaah.java) |
