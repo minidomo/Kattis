@@ -32,7 +32,7 @@ public class touchscreenkeyboard {
                 int x = Integer.parseInt(b.split(" ")[1]);
                 if (z == x)
                     return a.compareTo(b);
-                return Integer.signum(z - x);
+                return z - x;
             });
             for (String s : words)
                 dc.write(s + "\n");
