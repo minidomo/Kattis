@@ -21,7 +21,6 @@ public class touchscreenkeyboard {
                     dist += distance (keyboard, a, c);
                 }
                 dict[x] = word + " " + dist;
-                i = 0;
             }
             Array.Sort (dict, (a, b) => {
                 int z = int.Parse (a.Split (' ') [1]);
