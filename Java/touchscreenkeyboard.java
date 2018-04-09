@@ -1,5 +1,5 @@
 
-// https://open.kattis.com/problems/touchscreenkeyboard
+// https://open.kattis.com/problems/touchscreenkeyboardF
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -30,9 +30,7 @@ public class touchscreenkeyboard {
             Arrays.sort(words, (a, b) -> {
                 int z = Integer.parseInt(a.split(" ")[1]);
                 int x = Integer.parseInt(b.split(" ")[1]);
-                if (z == x)
-                    return a.compareTo(b);
-                return z - x;
+                return z == x ? a.compareTo(b) : z - x;
             });
             for (String s : words)
                 dc.write(s + "\n");
@@ -51,9 +49,8 @@ public class touchscreenkeyboard {
     private static int[] findCoords(char[][] arr, char a) {
         for (int r = 0; r < arr.length; r++)
             for (int c = 0; c < arr[r].length; c++)
-                if (arr[r][c] == a) {
+                if (arr[r][c] == a)
                     return new int[] { r, c };
-                }
         return new int[] { -1, -1 };
     }
 }
