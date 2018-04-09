@@ -1,5 +1,5 @@
 
-// https://open.kattis.com/problems/touchscreenkeyboardF
+// https://open.kattis.com/problems/touchscreenkeyboard
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
