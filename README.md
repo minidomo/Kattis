@@ -23,6 +23,7 @@ Some solutions may be outdated and could be improved.
 | [Bela](https://open.kattis.com/problems/bela) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/bela.cs) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/bijele.cs) |
 | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/birds.java) |
+| [Boat Parts](https://open.kattis.com/problems/boatparts) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/boatparts.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/boatparts.cs) |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/busnumbers.java) |
 | [CD](https://open.kattis.com/problems/cd) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cd.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/cd.cs) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cetvrta.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/cetvrta.cs) |
