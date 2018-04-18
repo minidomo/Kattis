@@ -16,6 +16,7 @@ Some solutions may be outdated and could be improved.
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/anagramcounting.java) |
 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/anothercandies.java) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/apaxiaaans.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/apaxiaaans.cs) |
+| [Automatic Trading](https://open.kattis.com/problems/automatictrading) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/automatictrading.java) |
 | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/autori.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/autori.cs) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/batterup.cs) |
