@@ -92,6 +92,7 @@ Some solutions may be outdated and could be improved.
 | [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/r2.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/r2.cs) |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/railroad2.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/railroad2.cs) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/repeatingdecimal.java) |
+| [Reverse Rot](https://open.kattis.com/problems/reverserot) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reverserot.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/reverserot.cs) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reversebinary.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/reversebinary.cs) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rijeci.java) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/savingdaylight.java) |
