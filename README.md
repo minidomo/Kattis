@@ -102,10 +102,10 @@ Some solutions may be outdated and could be improved.
 | [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java) |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/skener.cs) |
-| [Skocimis](https://open.kattis.com/problems/skocimis) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
+| [Skocimis](https://open.kattis.com/problems/skocimis) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/skocimis.cs) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/carrots.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/carrots.cs) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sortofsorting.java) |
-| [Soylent](https://open.kattis.com/problems/soylent) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/soylent.java) |
+| [Soylent](https://open.kattis.com/problems/soylent) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/soylent.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/soylent.cs) |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/spavanac.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/spavanac.cs) |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/speedlimit.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/speedlimit.cs) |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cups.java), [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/cups.cs) |
