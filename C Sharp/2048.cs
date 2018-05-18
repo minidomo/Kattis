@@ -1,6 +1,6 @@
 using System;
 
-public class i2048 {
+public class 2048 {
     public static void Main (string[] args) {
         int[, ] board = new int[4, 4];
         for (int r = 0, c = 0; r < 4; r++)
