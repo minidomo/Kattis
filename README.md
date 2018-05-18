@@ -4,7 +4,7 @@ Some solutions may be outdated and could be improved.
 
 | Problems | Languages |
 | - | - |
-| [@ERROR i2048](https://open.kattis.com/problems/i2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/i2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/i2048.java) |
+| [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
 | [A Towering Problem](https://open.kattis.com/problems/towering) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/towering.java) |
 | [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/abc.java) |
