@@ -2,7 +2,7 @@
 // https://open.kattis.com/problems/2048
 import java.util.Scanner;
 
-public class i2048 {
+public class 2048 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
