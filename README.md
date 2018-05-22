@@ -6,6 +6,7 @@ Some solutions may be outdated and could be improved.
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
+| [A List Game](https://open.kattis.com/problems/listgame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/listgame.java) |
 | [A Towering Problem](https://open.kattis.com/problems/towering) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/towering.java) |
 | [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/abc.java) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/acm.java) |
@@ -19,6 +20,7 @@ Some solutions may be outdated and could be improved.
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/apaxiaaans.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/apaxiaaans.java) |
 | [Automatic Trading](https://open.kattis.com/problems/automatictrading) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/automatictrading.java) |
 | [Autori](https://open.kattis.com/problems/autori) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/autori.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/autori.java) |
+| [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/backspace.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%20Sharp/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beekeeper.java) |
