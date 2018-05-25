@@ -1,5 +1,3 @@
-
-// https://open.kattis.com/problems/anagramcounting
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -10,7 +8,7 @@ public class anagramcounting {
         Scanner sc = new Scanner(System.in);
 
         while (sc.hasNextLine()) {
-            String[] letters = sc.nextLine().toCharArray();
+            char[] letters = sc.nextLine().toCharArray();
 
             HashSet<Character> uniqueLetters = new HashSet<>();
             for (char s : letters)
