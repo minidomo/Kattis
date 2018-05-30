@@ -88,6 +88,7 @@ Some solutions may be outdated and could be improved.
 | [Pot](https://open.kattis.com/problems/pot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pot.java) |
 | [Prime Matrix](https://open.kattis.com/problems/primematrix) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primematrix.java) |
 | [Prime Reduction](https://open.kattis.com/problems/primereduction) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primereduction.java) |
+| [Prva](https://open.kattis.com/problems/prva) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/prva.cpp) |
 | [Ptice](https://open.kattis.com/problems/ptice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/ptice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ptice.java) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/quadrant.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/quadrant.java) |
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/quickbrownfox.java) |
