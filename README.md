@@ -79,6 +79,7 @@ Some solutions may be outdated and could be improved.
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/onechicken.java) |
 | [Parking](https://open.kattis.com/problems/parking2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/parking2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking2.java) |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parsinghex.java) |
+| [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/pauleigon.cpp) |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/permutedarithmeticsequence.java) |
 | [Pet](https://open.kattis.com/problems/pet) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pet.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pet.java) |
 | [Phone List](https://open.kattis.com/problems/phonelist) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/phonelist.java) |
@@ -88,6 +89,7 @@ Some solutions may be outdated and could be improved.
 | [Pot](https://open.kattis.com/problems/pot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pot.java) |
 | [Prime Matrix](https://open.kattis.com/problems/primematrix) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primematrix.java) |
 | [Prime Reduction](https://open.kattis.com/problems/primereduction) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primereduction.java) |
+| [Prsteni](https://open.kattis.com/problems/prsteni) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/prsteni.cpp) |
 | [Prva](https://open.kattis.com/problems/prva) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/prva.cpp) |
 | [Ptice](https://open.kattis.com/problems/ptice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/ptice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ptice.java) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/quadrant.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/quadrant.java) |
@@ -107,6 +109,7 @@ Some solutions may be outdated and could be improved.
 | [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
+| [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/carrots.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/carrots.java) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sortofsorting.java) |
 | [Soylent](https://open.kattis.com/problems/soylent) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/soylent.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/soylent.java) |
