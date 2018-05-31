@@ -24,9 +24,9 @@ void getWords(string s)
         }
         if (s.size() - start > 1)
             words.push_back(s.substr(start));
+        return;
     }
-    else
-        words.push_back(s);
+    words.push_back(s);
 }
 
 int main()
