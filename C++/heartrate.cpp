@@ -2,12 +2,10 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     int cases;
     scanf("%d", &cases);
-    while (cases-- > 0)
-    {
+    while (cases-- > 0) {
         double beats, seconds;
         scanf("%lf %lf", &beats, &seconds);
         double unacc = (60 * beats) / seconds,
