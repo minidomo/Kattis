@@ -73,6 +73,7 @@ Some solutions may be outdated and could be improved.
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/nastyhacks.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/nastyhacks.java) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/nodup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/nodup.java) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/numberfun.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/numberfun.java) |
+| [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/numbertree.cpp) |
 | [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/oddgnome.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/oddgnome.java) |
 | [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/oddmanout.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/oddmanout.java) |
 | [Oddities](https://open.kattis.com/problems/oddities) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/oddities.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/oddities.java) |
