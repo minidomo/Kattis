@@ -67,6 +67,7 @@ Some solutions may be outdated and could be improved.
 | [Kemija](https://open.kattis.com/problems/kemija08) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kemija08.java) |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kornislav.java) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/ladder.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ladder.java) |
+| [Low Order Zeros](https://open.kattis.com/problems/loworderzeros) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/loworderzeros.cpp) |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mirror.java) |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mixedfractions.java) |
 | [Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/modulo.java) |
