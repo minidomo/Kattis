@@ -7,6 +7,7 @@ Some solutions may be outdated and could be improved.
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
 | [A List Game](https://open.kattis.com/problems/listgame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/listgame.java) |
+| [A Real Challenge](https://open.kattis.com/problems/areal) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/areal.cpp) |
 | [A Towering Problem](https://open.kattis.com/problems/towering) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/towering.java) |
 | [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/abc.java) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/acm.java) |
@@ -120,6 +121,7 @@ Some solutions may be outdated and could be improved.
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cups.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cups.java) |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/zanzibar.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/zanzibar.java) |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/stararrangements.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/stararrangements.java) |
+| [Statistics](https://open.kattis.com/problems/statistics) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/statistics.cpp) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/timeloop.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/timeloop.java) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sumkindofproblem.java) |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/symmetricorder.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/symmetricorder.java) |
