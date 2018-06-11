@@ -110,6 +110,7 @@ Some solutions may be outdated and could be improved.
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shatteredcake.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sibice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sibice.java) |
 | [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
+| [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/simpleaddition.cs) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
 | [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
