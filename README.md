@@ -66,6 +66,7 @@ Some solutions may be outdated and could be improved.
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/justaminute.java) |
 | [Karte](https://open.kattis.com/problems/karte) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/karte.java) |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kemija08.java) |
+| [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/kitten.cs) |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kornislav.java) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/ladder.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ladder.java) |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/lineup.cs) |
