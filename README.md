@@ -14,6 +14,7 @@ Some solutions may be outdated and could be improved.
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/aaah.java) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/aboveaverage.java) |
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/addingwords.java) |
+| [Akcija](https://open.kattis.com/problems/akcija) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/akcija.cpp) |
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/almostperfect.java) |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/alphabetspam.java) |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/anagramcounting.java) |
@@ -137,5 +138,6 @@ Some solutions may be outdated and could be improved.
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/trik.java) |
+| [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/wordsfornumbers.java) |
 | [Zamka](https://open.kattis.com/problems/zamka) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/zamka.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/zamka.java) |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ostgotska.java) |
