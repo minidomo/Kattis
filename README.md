@@ -29,6 +29,7 @@ Some solutions may be outdated and could be improved.
 | [Bela](https://open.kattis.com/problems/bela) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bela.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bijele.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java) |
 | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/birds.java) |
+| [Bits](https://open.kattis.com/problems/bits) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/bits.cpp) |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/boatparts.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/boatparts.java) |
 | [Bus](https://open.kattis.com/problems/bus) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bus.java) |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/busnumbers.java) |
@@ -114,6 +115,7 @@ Some solutions may be outdated and could be improved.
 | [Sibice](https://open.kattis.com/problems/sibice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sibice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sibice.java) |
 | [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/simpleaddition.cs) |
+| [Simplicity](https://open.kattis.com/problems/simplicity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simplicity.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
 | [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
