@@ -1,6 +1,6 @@
 # KattisTableGenerator
 ## Background Information
-This was a solo project I wanted to do because I wanted this repository to have a table that would show all the problems I solved on [Kattis](https://open.kattis.com/). This project was coded in C# using [.NET Core 2.1](https://www.microsoft.com/net/download) specifically v2.1.300 and was programmed in [Visual Studio Code](https://code.visualstudio.com/). It was my time doing a C# project, so it took me a long time to figure out how to use `dotnet` in the command line and how to properly setup my `.csproj`. As you can see, I am not very experienced at the moment.
+This was a solo project I wanted to do because I wanted this repository to have a table that would show all the problems I solved on [Kattis](https://open.kattis.com/). This project was coded in C# using [.NET Core 2.1](https://www.microsoft.com/net/download) specifically v2.1.300 and was programmed in [Visual Studio Code](https://code.visualstudio.com/). It was my first time doing a C# project, so it took me a long time to figure out how to use `dotnet` in the command line and how to properly setup my `.csproj`. As you can see, I am not very experienced at the moment.
 
 ## How It works
 This program is a console application, and it creates a table in markdown of the Kattis problems you solved. It works by using `WebRequest` and `WebResponse` in the `System.Net` namespace and getting the stream of the html code of the website.
