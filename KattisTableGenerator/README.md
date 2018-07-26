@@ -1,13 +1,15 @@
 # KattisTableGenerator
-## Background Information
+
+[Download](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.0) (Windows Only)
+### Background Information
 This was a solo project I wanted to do because I wanted this repository to have a table that would show all the problems I solved on [Kattis](https://open.kattis.com/). This project was coded in C# using [Unity](https://unity3d.com/) specifically 2018.2.0 and was programmed in [Visual Studio Code](https://code.visualstudio.com/). Originally, I had made this using [.NET Core 2.1](https://www.microsoft.com/net/download) as a console application, but it required the user to download .NET Core 2.1. Because of this, I decided to make it in Unity because the user could download it and start using it without installing extra things.
 
-## How It works
+### How It works
 This program creates a table of the Kattis problems you solved in Markdown. First, it gets the stream of the `GithubLinks.txt`, and downloads the HTML content of each URL in a string. Next, it searches through the string to find the hyperlinks that lead to your solutions. It then gets the filename from the end of the URL and uses it to identify the programming language it was coded in and gets the Kattis problem ID. It will use the problem ID and get the Kattis URL to the problem, which is then downloaded and searched for the problem's name. Once it's been found, it'll be added it to a list and continue until all links have been searched. Afterwards, it'll sort the list alphabetically and format the information into a table, which is outputted in `README.md`.
 
 Unity project is now available in this folder.
 
-## How To Use
+### How To Use
 This is a Windows application therefore it will not run on other platforms. You can start using this program by downloading it [here](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.0). Once you extract the files, you will see a `GithubLinks.txt` file where you will put your links to your github folder that has your code and the KattisTableGenerator.exe. Additionally, you can leave comments in the file by starting the line with `#` or `//`, and it'll also ignore lines that are blank. To run it, you open `KattisTableGenerator.exe` and then you'll see four buttons: `Run`, `Open GithubLinks.txt`, `Open LatestLog.txt`, and `Open README.md`. Opening the application will create the files `LatestLog.txt` and `README.md`. `LatestLog.txt` will contain information about the running process and have the runtime. `README.md` will contain the table that you can freely modify if you so desire.
 
 How will you know when the application finishes running? If you are currently focused on a different application, then my application will focus on itself when it's done. Additionally, you could try and hover over the other buttons and check to see if their color changes. If they don't change, then the program has not finished.
