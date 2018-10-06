@@ -25,6 +25,7 @@ Some solutions may be outdated and could be improved.
 | [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/backspace.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
+| [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beekeeper.java) |
 | [Bela](https://open.kattis.com/problems/bela) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bela.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bijele.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java) |
