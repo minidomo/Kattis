@@ -25,7 +25,7 @@ Some solutions may be outdated and could be improved.
 | [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/backspace.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
-| [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
+| [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beautifulprimes.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beekeeper.java) |
 | [Bela](https://open.kattis.com/problems/bela) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bela.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bijele.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java) |
@@ -112,6 +112,7 @@ Some solutions may be outdated and could be improved.
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/raggedright.java) |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/railroad2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/railroad2.java) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/repeatingdecimal.java) |
+| [Reseto](https://open.kattis.com/problems/reseto) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reseto.java) |
 | [Reverse Rot](https://open.kattis.com/problems/reverserot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/reverserot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reverserot.java) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/reversebinary.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reversebinary.java) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rijeci.java) |
