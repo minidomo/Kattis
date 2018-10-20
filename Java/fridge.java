@@ -6,40 +6,36 @@ public class fridge {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter dc = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        TreeMap<Integer, Integer> map = new TreeMap<>();
-        for (int x = 0; x < 10; x++)
-            map.put(x, 0);
+        int[] arr = new int[10];
         for (char c : sc.readLine().toCharArray()) {
             int num = c - '0';
-            map.put(num, map.get(num) + 1);
+            arr[num]++;
         }
 
+        int minKey = 0, minVal = Integer.MAX_VALUE;
         boolean done = false;
-        for (Map.Entry<Integer, Integer> s : map.entrySet())
-            if (s.getValue() == 0 && s.getKey() != 0) {
-                dc.write(s.getKey() + "\n");
+        for (int x = 1; x < arr.length; x++) {
+            if (arr[x] == 0) {
+                dc.write(x + "\n");
                 done = true;
                 break;
             }
+            if (arr[x] < minVal) {
+                minKey = x;
+                minVal = arr[x];
+            }
+        }
 
         if (!done) {
-            if (map.get(0) == 0)
+            if (arr[0] == 0)
                 dc.write("10\n");
             else {
-                int minKey = 0, minVal = Integer.MAX_VALUE;
-                for (Map.Entry<Integer, Integer> a : map.entrySet())
-                    if (a.getKey() != 0 && a.getValue() < minVal) {
-                        minKey = a.getKey();
-                        minVal = a.getValue();
-                    }
                 dc.write(minKey + "");
-                map.put(minKey, map.get(minKey) - 1);
-                if (map.get(0) <= map.get(minKey))
+                arr[minKey]--;
+                if (arr[0] <= arr[minKey])
                     minKey = 0;
-                while (map.get(minKey) >= 0) {
+                while (arr[minKey]-- >= 0)
                     dc.write(minKey + "");
-                    map.put(minKey, map.get(minKey) - 1);
-                }
             }
         }
 
