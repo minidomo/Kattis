@@ -80,6 +80,7 @@ Some solutions may be outdated and could be improved.
 | [Limbo: Part 1](https://open.kattis.com/problems/limbo1) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/limbo1.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/limbo1.java) |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/lineup.cs) |
 | [Low Order Zeros](https://open.kattis.com/problems/loworderzeros) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/loworderzeros.cpp) |
+| [Luhn&#039;s Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/luhnchecksum.cpp) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/metaprogramming.cs) |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mirror.java) |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mixedfractions.java) |
@@ -93,8 +94,8 @@ Some solutions may be outdated and could be improved.
 | [Oddities](https://open.kattis.com/problems/oddities) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/oddities.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/oddities.java) |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/onechicken.java) |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ostgotska.java) |
-| [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java) |
 | [Parking](https://open.kattis.com/problems/parking2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/parking2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking2.java) |
+| [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java) |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parsinghex.java) |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/pauleigon.cpp) |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/permutedarithmeticsequence.java) |
@@ -122,6 +123,7 @@ Some solutions may be outdated and could be improved.
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rijeci.java) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/runlengthencodingrun.java) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/savingdaylight.java) |
+| [Scaling Recipes](https://open.kattis.com/problems/recipes) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/recipes.java) |
 | [Server](https://open.kattis.com/problems/server) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/server.cs) |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sevenwonders.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sevenwonders.java) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shatteredcake.java) |
@@ -132,6 +134,7 @@ Some solutions may be outdated and could be improved.
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simplicity.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
+| [Slatkisi](https://open.kattis.com/problems/slatkisi) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/slatkisi.java) |
 | [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/carrots.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/carrots.java) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sortofsorting.java) |
@@ -158,4 +161,5 @@ Some solutions may be outdated and could be improved.
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trollhunt.cs) |
 | [Union-Find](https://open.kattis.com/problems/unionfind) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/unionfind.java) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/wordsfornumbers.java) |
+| [Yoda](https://open.kattis.com/problems/yoda) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/yoda.java) |
 | [Zamka](https://open.kattis.com/problems/zamka) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/zamka.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/zamka.java) |
