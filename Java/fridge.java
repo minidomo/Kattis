@@ -14,13 +14,6 @@ public class fridge {
             map.put(num, map.get(num) + 1);
         }
 
-        int minKey = 0, minVal = Integer.MAX_VALUE;
-        for (Map.Entry<Integer, Integer> a : map.entrySet())
-            if (a.getKey() != 0 && a.getValue() < minVal) {
-                minKey = a.getKey();
-                minVal = a.getValue();
-            }
-
         boolean done = false;
         for (Map.Entry<Integer, Integer> s : map.entrySet())
             if (s.getValue() == 0 && s.getKey() != 0) {
@@ -33,6 +26,12 @@ public class fridge {
             if (map.get(0) == 0)
                 dc.write("10\n");
             else {
+                int minKey = 0, minVal = Integer.MAX_VALUE;
+                for (Map.Entry<Integer, Integer> a : map.entrySet())
+                    if (a.getKey() != 0 && a.getValue() < minVal) {
+                        minKey = a.getKey();
+                        minVal = a.getValue();
+                    }
                 dc.write(minKey + "");
                 map.put(minKey, map.get(minKey) - 1);
                 if (map.get(0) <= map.get(minKey))
