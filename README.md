@@ -23,6 +23,7 @@ Some solutions may be outdated and could be improved.
 | [Automatic Trading](https://open.kattis.com/problems/automatictrading) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/automatictrading.java) |
 | [Autori](https://open.kattis.com/problems/autori) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/autori.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/autori.java) |
 | [Baby Bites](https://open.kattis.com/problems/babybites) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/babybites.cpp) |
+| [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/babylonian.java) |
 | [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/backspace.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
