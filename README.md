@@ -137,6 +137,7 @@ Some solutions may be outdated and could be improved.
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
 | [Slatkisi](https://open.kattis.com/problems/slatkisi) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/slatkisi.java) |
+| [Smallest Multiple](https://open.kattis.com/problems/smallestmultiple) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/smallestmultiple.java) |
 | [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/carrots.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/carrots.java) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sortofsorting.java) |
