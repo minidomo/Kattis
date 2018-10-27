@@ -55,6 +55,7 @@ Some solutions may be outdated and could be improved.
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/engineeringenglish.java) |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/estimatingtheareaofacircle.java) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/faktor.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/faktor.java) |
+| [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/falsesecurity.java) |
 | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fenwick.java) |
 | [Filip](https://open.kattis.com/problems/filip) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/filip.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/filip.java) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/fizzbuzz.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fizzbuzz.java) |
@@ -72,6 +73,7 @@ Some solutions may be outdated and could be improved.
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hissingmicrophone.java) |
 | [I&#039;ve Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/everywhere.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/everywhere.java) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/icpcawards.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/icpcawards.java) |
+| [Islands](https://open.kattis.com/problems/islands3) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/islands3.java) |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/judgingmoose.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/judgingmoose.java) |
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/justaminute.java) |
 | [Karte](https://open.kattis.com/problems/karte) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/karte.java) |
@@ -130,8 +132,8 @@ Some solutions may be outdated and could be improved.
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sevenwonders.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sevenwonders.java) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shatteredcake.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sibice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sibice.java) |
-| [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java) |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
+| [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java) |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/simpleaddition.cs) |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simplicity.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
