@@ -164,6 +164,7 @@ Some solutions may be outdated and could be improved.
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/trik.java) |
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trollhunt.cs) |
+| [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/zoo.java) |
 | [Union-Find](https://open.kattis.com/problems/unionfind) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/unionfind.java) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/wordsfornumbers.java) |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/yoda.java) |
