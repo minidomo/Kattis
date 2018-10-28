@@ -118,6 +118,7 @@ Some solutions may be outdated and could be improved.
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/quickbrownfox.java) |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/quickestimate.java) |
 | [R2](https://open.kattis.com/problems/r2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/r2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/r2.java) |
+| [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/racingalphabet.java) |
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/raggedright.java) |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/railroad2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/railroad2.java) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/repeatingdecimal.java) |
