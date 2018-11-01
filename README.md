@@ -126,6 +126,7 @@ Some solutions may be outdated and could be improved.
 | [Reverse Rot](https://open.kattis.com/problems/reverserot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/reverserot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reverserot.java) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/reversebinary.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reversebinary.java) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rijeci.java) |
+| [Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/romans.java) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/runlengthencodingrun.java) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/savingdaylight.java) |
 | [Scaling Recipes](https://open.kattis.com/problems/recipes) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/recipes.java) |
