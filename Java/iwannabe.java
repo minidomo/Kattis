@@ -19,16 +19,20 @@ public class iwannabe {
         Arrays.sort(defense, new DefCompare());
         Arrays.sort(health, new HealthCompare());
         int count = 0;
-        for (int x = 0; x < k; x++, count++)
-            attack[x].taken = true;
-        for (int x = 0; x < k; x++)
+        for (int x = 0; x < k; x++) {
+            if (!attack[x].taken) {
+                attack[x].taken = true;
+                count++;
+            }
             if (!defense[x].taken) {
                 defense[x].taken = true;
                 count++;
             }
-        for (int x = 0; x < k; x++)
-            if (!health[x].taken)
+            if (!health[x].taken) {
+                health[x].taken = true;
                 count++;
+            }
+        }
         dc.write(count + "\n");
 
         dc.close();
