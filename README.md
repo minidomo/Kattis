@@ -73,6 +73,7 @@ Some solutions may be outdated and could be improved.
 | [Herman](https://open.kattis.com/problems/herman) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/herman.java) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hidden.java) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hissingmicrophone.java) |
+| [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/iwannabe.java) |
 | [I&#039;ve Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/everywhere.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/everywhere.java) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/icpcawards.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/icpcawards.java) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/isithalloween.java) |
@@ -102,8 +103,8 @@ Some solutions may be outdated and could be improved.
 | [Oddities](https://open.kattis.com/problems/oddities) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/oddities.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/oddities.java) |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/onechicken.java) |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ostgotska.java) |
-| [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java) |
 | [Parking](https://open.kattis.com/problems/parking2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/parking2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking2.java) |
+| [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java) |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parsinghex.java) |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/pauleigon.cpp) |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/permutedarithmeticsequence.java) |
