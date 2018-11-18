@@ -42,6 +42,7 @@ Some solutions may be outdated and could be improved.
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cetvrta.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cetvrta.java) |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/chanukah.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cold.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cold.java) |
+| [Combination Lock](https://open.kattis.com/problems/combinationlock) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/combinationlock.java) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/compoundwords.java) |
 | [Cryptographer&#039;s Conundrum](https://open.kattis.com/problems/conundrum) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/conundrum.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/conundrum.java) |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/dasblinkenlights.cpp) |
@@ -50,6 +51,7 @@ Some solutions may be outdated and could be improved.
 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/deathknight.java) |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/detaileddifferences.java) |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/dicecup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/dicecup.java) |
+| [Dice Game](https://open.kattis.com/problems/dicegame) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/dicegame.cpp) |
 | [Different Distances](https://open.kattis.com/problems/differentdistances) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/differentdistances.java) |
 | [Digital display](https://open.kattis.com/problems/display) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/display.java) |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/drmmessages.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/drmmessages.java) |
