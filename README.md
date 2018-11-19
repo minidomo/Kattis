@@ -30,6 +30,7 @@ Some solutions may be outdated and could be improved.
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
 | [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beautifulprimes.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
 | [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beavergnaw.cpp) |
+| [Bee House Perimeter](https://open.kattis.com/problems/beehouseperimeter) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beehouseperimeter.java) |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beekeeper.java) |
 | [Bela](https://open.kattis.com/problems/bela) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bela.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bijele.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java) |
