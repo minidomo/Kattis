@@ -72,6 +72,7 @@ Some solutions may be outdated and could be improved.
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/fizzbuzz.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fizzbuzz.java) |
 | [Free Food](https://open.kattis.com/problems/freefood) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/freefood.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/freefood.java) |
 | [Fridge](https://open.kattis.com/problems/fridge) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fridge.java) |
+| [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/froshweek2.java) |
 | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/frosting.java) |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/goatrope.cpp) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/grassseed.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/grassseed.java) |
@@ -157,17 +158,19 @@ Some solutions may be outdated and could be improved.
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/reversebinary.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reversebinary.java) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rijeci.java) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/romans.java) |
+| [Roll Call](https://open.kattis.com/problems/rollcall) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rollcall.java) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/runlengthencodingrun.java) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/savingdaylight.java) |
 | [Scaling Recipes](https://open.kattis.com/problems/recipes) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/recipes.java) |
 | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/scrollingsign.java) |
+| [Semafori](https://open.kattis.com/problems/semafori) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/semafori.java) |
 | [Server](https://open.kattis.com/problems/server) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/server.cs) |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sevenwonders.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sevenwonders.java) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shatteredcake.java) |
 | [Shopaholic](https://open.kattis.com/problems/shopaholic) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shopaholic.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/sibice.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sibice.java) |
-| [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Simon Says](https://open.kattis.com/problems/simon) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simon.java) |
+| [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/simpleaddition.cs) |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simplicity.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
@@ -197,6 +200,7 @@ Some solutions may be outdated and could be improved.
 | [Tetration](https://open.kattis.com/problems/tetration) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tetration.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tetration.java) |
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/humancannonball2.cpp) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/easiest.java) |
+| [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/owlandfox.java) |
 | [ToLower](https://open.kattis.com/problems/tolower) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tolower.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tolower.java) |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tri.java) |
