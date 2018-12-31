@@ -39,7 +39,7 @@ namespace KattisTableGenerator {
             { ".pl", "Prolog" },
             { ".pro", "Prolog" },
             { ".P", "Prolog" },
-            { "py", "Python" },
+            { ".py", "Python" },
             { ".pyc", "Python" },
             { ".pyd", "Python" },
             { ".pyo", "Python" },
