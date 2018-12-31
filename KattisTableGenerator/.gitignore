@@ -8,6 +8,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+Kattis.Table.Generator.v1.0.1/
+Kattis.Table.Generator.v1.0.1.zip
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

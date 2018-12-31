@@ -14,7 +14,7 @@ namespace KattisTableGenerator {
             Dictionary<string, string> idToNameMap = new Dictionary<string, string> (2500);
             const string mapfile = @"KattisIDNameMapping.txt";
             if (!File.Exists (mapfile)) {
-                log.WriteLine ("Recommendation: You should run KattisIDNameMapping.txt to ensure fast speeds");
+                log.WriteLine ("Recommendation: You should run KattisMapGenerator.dll to ensure fast speeds");
                 File.Create (mapfile).Close ();
             }
             CustomReader sc = new CustomReader (mapfile);
@@ -23,7 +23,7 @@ namespace KattisTableGenerator {
                 string id = line;
                 string name = sc.NextLine ();
                 if (name == null)
-                    throw new Exception ("Missing name for ID '" + id + "'. To fix this, you could delete KattisIDNameMapping.txt and run KattisMappingProgram.cs, or manually fix it by editing KattisIDNameMapping.txt.");
+                    throw new EndOfStreamException ("Missing name for ID '" + id + "'. To fix this, you could delete KattisIDNameMapping.txt and run KattisMappingProgram.cs, or manually fix it by editing KattisIDNameMapping.txt.");
                 idToNameMap.Add (id, name);
             }
             const string file = @"Config.txt";
@@ -49,12 +49,12 @@ namespace KattisTableGenerator {
                                 ignore.Add (line);
                         } else {
                             log.WriteLine ("'" + line + "' does not match IGNORE regex (^[a-zA-Z\\d]*(\\.[a-zA-Z\\d]+)?$). Valid examples (ensure they're on separate lines and no commas): 2048, .cpp, abc.java");
-                            throw new Exception ("'" + line + "' does not match IGNORE regex (^[a-zA-Z\\d]*(\\.[a-zA-Z\\d]+)?$). Valid examples (ensure they're on separate lines and no commas): 2048, .cpp, abc.java");
+                            throw new InvalidDataException ("'" + line + "' does not match IGNORE regex (^[a-zA-Z\\d]*(\\.[a-zA-Z\\d]+)?$). Valid examples (ensure they're on separate lines and no commas): 2048, .cpp, abc.java");
                         }
                     else if (state == KattisState.URL) {
                         if (!line.StartsWith ("https://github.com", StringComparison.Ordinal)) {
                             log.WriteLine ("'" + line + "' does not begin with https://github.com.");
-                            throw new Exception ("'" + line + "' does not begin with https://github.com.");
+                            throw new InvalidDataException ("'" + line + "' does not begin with https://github.com.");
                         }
                         if (!urls.Contains (line))
                             urls.Add (line);
@@ -64,13 +64,13 @@ namespace KattisTableGenerator {
                                 folders.Push (new Tuple<string, Queue<string>> (line.Substring (3), new Queue<string> ()));
                             else {
                                 log.WriteLine ("'to:' requires a folder");
-                                throw new Exception ("'to:' requires a folder");
+                                throw new InvalidDataException ("'to:' requires a folder");
                             }
                         } else
                             folders.Peek ().Item2.Enqueue (line);
                     } else {
                         log.WriteLine (line + " | First line read should be an action.");
-                        throw new Exception (line + " | First line read should be an action.");
+                        throw new InvalidDataException (line + " | First line read should be an action.");
                     }
                 }
             }
@@ -87,8 +87,8 @@ namespace KattisTableGenerator {
                     string folder = t.Item2.Dequeue ();
                     DirectoryInfo dir = new DirectoryInfo (folder);
                     if (!dir.Exists) {
-                        log.WriteLine (folder + " was not found");
-                        throw new DirectoryNotFoundException ();
+                        log.WriteLine (folder + " was not found, resulting in being skipped");
+                        continue;
                     }
                     foreach (FileInfo info in dir.GetFiles ()) {
                         string githubProblemURL, githubProblemID, githubProblemExt;
@@ -112,7 +112,13 @@ namespace KattisTableGenerator {
                     // check if it's an actual URL like https://www.google.com/ and not <sfghsdh-3wtsdfg>asd,.sg
                     if (!Uri.IsWellFormedUriString (link, UriKind.Absolute))
                         continue;
-                    CustomReader githubReader = new CustomReader (getURLStream (link));
+                    Stream githubStream = getURLStream (link);
+                    // true if github link is nonexistent
+                    if (githubStream == null) {
+                        log.WriteLine ("Invalid link found '" + link + "'");
+                        continue;
+                    }
+                    CustomReader githubReader = new CustomReader (githubStream);
                     while ((line = githubReader.NextLine ()) != null) {
                         // indicates that we've reached towards the bottom of the page where nothing below it will have problems/solutions to account for
                         if (line.Contains ("model-backdrop", StringComparison.Ordinal))
@@ -124,6 +130,7 @@ namespace KattisTableGenerator {
                         assignURLandIDandLang (line, out githubProblemURL, out githubProblemID, out githubProblemExt);
                         check (githubProblemURL, githubProblemID, githubProblemExt, ignore, IDsAddedToTable, table, idToNameMap);
                     }
+                    githubStream.Close ();
                     githubReader.Close ();
                 }
             }

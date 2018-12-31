@@ -5,11 +5,20 @@
 
 ### Instructions
 Once you downloaded, installed, and added .NET Core 2.1 or higher to your system path and unzipped the .zip file, you can start setting up the program. If any issues are found or clarifications are needed, send an [issue](https://github.com/MiniDomo/Kattis/issues).  
+To run the main program:
+```
+dotnet KattisTableGenerator.dll
+```  
+If you do not have `KattisIDNameMapping.txt` or want to update it and then run the main program:
+```
+dotnet KattisMapGenerator.dll
+dotnet KattisTableGenerator.dll
+```
 - `KattisTableGenerator.dll` - This is the main `.dll` that will be ran to generate the `README.md` and `Log.txt`.  
 Command prompt usage: `dotnet KattisTableGenerator.dll` 
 - `KattisMapGenerator.dll` - This is the other `.dll` that will create a `KattisIDNameMapping.txt` file to substantially increase the performance of the main program.  
 Command prompt usage: `dotnet KattisMapGenerator.dll`  
-- `KattisIDNameMapping.txt` - This holds the IDs and corresponding names of all the Kattis problems up to the date of when you last ran `KattisMapGenerator.dll`.  
+- `KattisIDNameMapping.txt` - This holds the IDs and corresponding names of all the Kattis problems up to the date of when you last ran `KattisMapGenerator.dll`. In the .zip, I already included a `KattisIDNameMapping.txt` with the list of IDs and names of available on Kattis as of December 30, 2018. You may need to run `KattisMapGenerator.dll` later in the future to support new problems added to Kattis.  
 - `Log.txt` - This is not included intially, however it is created once KattisTableGenerator.dll is ran. This shows some details of what was going while the program was running.  
 - `Config.txt` - This is where you will put in the details of what you want your program to do. I left an `ExampleConfig.txt` in case you wanted to see how to use it, but I will also cover it here.  
 Actions/Commands for `Config.txt` - Everything must be on individual lines.

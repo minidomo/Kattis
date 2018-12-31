@@ -23,7 +23,7 @@ namespace KattisMapGenerator {
                 string id = line;
                 string name = sc.NextLine ();
                 if (name == null)
-                    throw new Exception ("Missing name for ID '" + id + "'. To fix this, you could delete KattisIDNameMapping.txt and run this program, or manually fix it by editing KattisIDNameMapping.txt.");
+                    throw new EndOfStreamException ("Missing name for ID '" + id + "'. To fix this, you could delete KattisIDNameMapping.txt and run this program, or manually fix it by editing KattisIDNameMapping.txt.");
                 map.Add (id, name);
             }
             sc.Close ();
