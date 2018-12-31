@@ -23,7 +23,7 @@ Command prompt usage: `dotnet KattisMapGenerator.dll`
 - `Config.txt` - This is where you will put in the details of what you want your program to do. I left an `ExampleConfig.txt` in case you wanted to see how to use it, but I will also cover it here.  
 Actions/Commands for `Config.txt` - Everything must be on individual lines.
     - `IGNORE` - This will prevent certain files from being added to the final `README.md`.  
-In the example below, `.java` and `.py` will ignore any file with a `.java` or `.py` extension and prevent it from being added to the `README.md`. `abc.cpp` and `acm.cs` means that those **exact** files will not be added. `hello` means that the kattis problem with ID `hello` will not be added no matter what extension it may have, so, for example, `hello.java` and `hello.c` will not be added. These are the only ways to use `IGNORE`.
+In the example below, `.java` and `.py` will ignore any file with a `.java` or `.py` extension and prevent it from being added to the `README.md`. `abc.cpp` and `acm.cs` means that those **exact** files will not be added. `hello` means that the kattis problem with ID `hello` will not be added no matter what extension it may have, so, for example, `hello.java` and `hello.c` will not be added. These are the only ways to use `IGNORE`. Note that, it's not needed to ignore extensions that are not support by Kattis. The program is designed to already ignore those extensions. To see which extensions are supported by Kattis, check [Extensions.cs](https://github.com/MiniDomo/Kattis/blob/master/KattisTableGenerator/KattisTableGenerator/KattisTableGenerator/Extensions.cs).
         ```
         IGNORE
         .java
