@@ -1,0 +1,14 @@
+﻿IGNORE
+2048
+.cpp
+acm.java
+
+URL
+https://github.com/MiniDomo/Kattis/tree/master/Java
+
+FOLDER
+TO:https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B
+C:\Users\domob\Documents\Kattis\C++ Solutions
+TO:https://github.com/MiniDomo/Kattis/tree/master/C%23
+C:\Users\domob\Documents\Kattis\C# Solutions
+C:\Users\domob\Documents\Kattis\Java Solutions

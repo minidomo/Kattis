@@ -1,15 +1,80 @@
 # KattisTableGenerator
+[Download](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.1) (Cross-platform)
+### v1.0.1 Upgrade
+v1.0.0 was a start to a great program. It allowed for people have a table that would show all the problems they solved on [Kattis](https://open.kattis.com/). However, it wasn't good enough; it was slow, inefficient, and limited to only Windows users. With v1.0.1, I'm finally making this cross-platform and also bringing incredible performance boosts. v1.0.0 was made with [Unity](https://unity3d.com/), but v1.0.1 is made with [.NET Core 2.1](https://dotnet.microsoft.com/download), which is what allows this program to be cross-platform so make sure to download .NET Core 2.1 or higher and add it to your system path. This was coded in [Visual Studio Community 2017](https://visualstudio.microsoft.com/).
 
-[Download](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.0) (Windows Only)
-### Background Information
-This was a solo project I wanted to do because I wanted this repository to have a table that would show all the problems I solved on [Kattis](https://open.kattis.com/). This project was coded in C# using [Unity](https://unity3d.com/) specifically 2018.2.0 and was programmed in [Visual Studio Code](https://code.visualstudio.com/). Originally, I had made this using [.NET Core 2.1](https://www.microsoft.com/net/download) as a console application, but it required the user to download .NET Core 2.1. Because of this, I decided to make it in Unity because the user could download it and start using it without installing extra things.
+### Instructions
+Once you downloaded, installed, and added .NET Core 2.1 or higher to your system path and unzipped the .zip file, you can start setting up the program. If any issues are found or clarifications are needed, send an [issue](https://github.com/MiniDomo/Kattis/issues).  
+- `KattisTableGenerator.dll` - This is the main `.dll` that will be ran to generate the `README.md` and `Log.txt`.  
+Command prompt usage: `dotnet KattisTableGenerator.dll` 
+- `KattisMapGenerator.dll` - This is the other `.dll` that will create a `KattisIDNameMapping.txt` file to substantially increase the performance of the main program.  
+Command prompt usage: `dotnet KattisMapGenerator.dll`  
+- `KattisIDNameMapping.txt` - This holds the IDs and corresponding names of all the Kattis problems up to the date of when you last ran `KattisMapGenerator.dll`.  
+- `Log.txt` - This is not included intially, however it is created once KattisTableGenerator.dll is ran. This shows some details of what was going while the program was running.  
+- `Config.txt` - This is where you will put in the details of what you want your program to do. I left an `ExampleConfig.txt` in case you wanted to see how to use it, but I will also cover it here.  
+Actions/Commands for `Config.txt` - Everything must be on individual lines.
+    - `IGNORE` - This will prevent certain files from being added to the final `README.md`.  
+In the example below, `.java` and `.py` will ignore any file with a `.java` or `.py` extension and prevent it from being added to the `README.md`. `abc.cpp` and `acm.cs` means that those **exact** files will not be added. `hello` means that the kattis problem with ID `hello` will not be added no matter what extension it may have, so, for example, `hello.java` and `hello.c` will not be added. These are the only ways to use `IGNORE`.
+        ```
+        IGNORE
+        .java
+        .py
+        abc.cpp
+        acm.cs
+        hello
+        ```
+    - `URL` - This tells the program that there may be incoming URLs to be added to process data.  
+To use `URL` all you must do is specify the URLs you want to get the files from, and in the final `README.md`, the solutions found in the URLs will link back to its corresponding URL.
+        ```
+        URL
+        https://github.com/MiniDomo/Kattis/tree/master/Java
+        https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B
+        ```
+    - `FOLDER` - This tells that program that there may be incoming folder directories to be added to process data.  
+        - `TO:(directory)` - This is a sub-action/command of folder where you **must** use if you want to add files via folders to allow the solutions in the final `README.md` to link back with a solution uploaded onto github.  
 
-### How It works
-This program creates a table of the Kattis problems you solved in Markdown. First, it gets the stream of the `GithubLinks.txt`, and downloads the HTML content of each URL in a string. Next, it searches through the string to find the hyperlinks that lead to your solutions. It then gets the filename from the end of the URL and uses it to identify the programming language it was coded in and gets the Kattis problem ID. It will use the problem ID and get the Kattis URL to the problem, which is then downloaded and searched for the problem's name. Once it's been found, it'll be added it to a list and continue until all links have been searched. Afterwards, it'll sort the list alphabetically and format the information into a table, which is outputted in `README.md`.
+        In the example below, `TO:https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B` means that in the upcoming directories, the valid kattis solutions will link back to `https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B`. For example, let's say in `C:\Users\domob\Documents\Kattis\C++ Solutions`, I had a solution called `acm.cpp`. In the `README.md` it will be printed as `[C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/acm.cpp)`. This is correct assuming you actually upload `acm.cpp` to `https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B`. In addition, all files below the `TO:(directory)` will link back with the latest `TO:(directory)` used, so `C:\Users\domob\Documents\Kattis\C# Solutions` and
+        `C:\Users\domob\Documents\Kattis\Java Solutions` will link with `https://github.com/MiniDomo/Kattis/tree/master/C%23`.
+        ```
+        FOLDER
+        TO:https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B
+        C:\Users\domob\Documents\Kattis\C++ Solutions
+        TO:https://github.com/MiniDomo/Kattis/tree/master/C%23
+        C:\Users\domob\Documents\Kattis\C# Solutions
+        C:\Users\domob\Documents\Kattis\Java Solutions
+        ```
+    Mix Example  
+    ```
+    
+    FOLDER
+    TO:https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B
+    C:\Users\domob\Documents\Kattis\C++ Solutions
 
-Unity project is now available in this folder.
+    TO:https://github.com/MiniDomo/Kattis/tree/master/C%23
+    C:\Users\domob\Documents\Kattis\C# Solutions
+    C:\Users\domob\Documents\Kattis\Java Solutions
 
-### How To Use
-This is a Windows application therefore it will not run on other platforms. You can start using this program by downloading it [here](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.0). Once you extract the files, you will see a `GithubLinks.txt` file where you will put your links to your github folder that has your code and the KattisTableGenerator.exe. Additionally, you can leave comments in the file by starting the line with `#` or `//`, and it'll also ignore lines that are blank. To run it, you open `KattisTableGenerator.exe` and then you'll see four buttons: `Run`, `Open GithubLinks.txt`, `Open LatestLog.txt`, and `Open README.md`. Opening the application will create the files `LatestLog.txt` and `README.md`. `LatestLog.txt` will contain information about the running process and have the runtime. `README.md` will contain the table that you can freely modify if you so desire.
+    IGNORE
+    2048
 
-How will you know when the application finishes running? If you are currently focused on a different application, then my application will focus on itself when it's done. Additionally, you could try and hover over the other buttons and check to see if their color changes. If they don't change, then the program has not finished.
+    abc.java
+    .cpp
+
+    parking.cs
+
+
+
+    URL
+    https://github.com/MiniDomo/Kattis/tree/master/C%2B%2B
+
+
+    https://github.com/MiniDomo/Kattis/tree/master/C%23
+    ```
+    As you can see, blank lines do not matter, and order of actions/commands do not matter. However, the first non-blank line must be an action.  
+    "Bad" Example - This will result in an error.
+    ```
+    diufhiodfh
+
+    URL
+    https://github.com/MiniDomo/Kattis/tree/master/C%23
+    ```
