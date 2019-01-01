@@ -82,7 +82,20 @@ namespace KattisTableGenerator {
             // folder check
             while (folders.Count > 0) {
                 Tuple<string, Queue<string>> t = folders.Pop ();
-                string loc = t.Item1.Replace ("/tree/master/", "/blob/master/") + "/";
+                string loc = t.Item1;
+                // try to replace the tree to blob in link
+                // example: https://github.com/MiniDomo/Kattis/tree/master/Java
+                // to https://github.com/MiniDomo/Kattis/blob/master/Java/
+                Match match = Regex.Match (loc, "^https://github.com/[^/]*/[^/]*/tree/");
+                if (match.Success) {
+                    string res = match.Value;
+                    int len = res.Length;
+                    res = res.Substring (0, len - 5) + "blob/";
+                    loc = res + loc.Substring (len) + "/";
+                } else {
+                    log.WriteLine ("Invalid link for FOLDER: " + loc + " did not match regex ^https://github.com/[^/]*/[^/]*/tree/ resulting in skipping the link.");
+                    continue;
+                }
                 while (t.Item2.Count > 0) {
                     string folder = t.Item2.Dequeue ();
                     DirectoryInfo dir = new DirectoryInfo (folder);
@@ -93,8 +106,10 @@ namespace KattisTableGenerator {
                     foreach (FileInfo info in dir.GetFiles ()) {
                         string githubProblemURL, githubProblemID, githubProblemExt;
                         // check if proper formatting 
-                        if (!Regex.IsMatch (info.Name, @"^[a-zA-Z\d]+\.[a-zA-Z\d]+$"))
+                        if (!Regex.IsMatch (info.Name, @"^[a-zA-Z\d]+\.[a-zA-Z\d]+$")) {
+                            log.WriteLine ("File " + info.Name + " does not match ^[a-zA-Z\\d]+\\.[a-zA-Z\\d]+$ regex, skipping");
                             continue;
+                        }
                         int periodPos = info.Name.IndexOf (".", StringComparison.Ordinal);
                         githubProblemID = info.Name.Substring (0, periodPos);
                         githubProblemExt = info.Name.Substring (periodPos);
@@ -151,6 +166,7 @@ namespace KattisTableGenerator {
             dc.Write (output + other);
             dc.Close ();
             log.StopTimer ();
+            log.WriteLine ("Program finished");
             log.Close ();
             Console.WriteLine ("Press any key to exit...");
             Console.ReadKey ();
