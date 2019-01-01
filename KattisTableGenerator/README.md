@@ -1,5 +1,5 @@
 # KattisTableGenerator
-[Download](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v1.0.1) (Cross-platform)
+[Download](https://github.com/MiniDomo/Kattis/releases/tag/Kattis-Table-Generator-v2.0.0) (Cross-platform)
 ### v2.0.0 Upgrade
 [v1.0.0](https://github.com/MiniDomo/Kattis/tree/v1.0.0/KattisTableGenerator) was a start to a great program. It allowed for people have a table that would show all the problems they solved on [Kattis](https://open.kattis.com/). However, it wasn't good enough; it was slow, inefficient, and limited to only Windows users. With v2.0.0, I'm finally making this cross-platform and also bringing incredible performance boosts. v1.0.0 was made with [Unity](https://unity3d.com/), but v2.0.0 is made with [.NET Core 2.1](https://dotnet.microsoft.com/download), which is what allows this program to be cross-platform so make sure to download .NET Core 2.1 or higher and add it to your system path. This was coded in [Visual Studio Community 2017](https://visualstudio.microsoft.com/).
 
