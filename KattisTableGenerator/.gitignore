@@ -10,6 +10,8 @@
 *.sln.docstates
 Kattis.Table.Generator.v1.0.1/
 Kattis.Table.Generator.v1.0.1.zip
+KattisTableGenerator/KattisTableGenerator/*.txt
+KattisMapGenerator/KattisMapGenerator/*.txt
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)

@@ -136,7 +136,7 @@ namespace KattisTableGenerator {
             }
             // URL end
 
-            string output = "# Kattis Solution\nSome solutions may be outdated and could be improved.\n\n";
+            string output = "# Kattis Solutions\nSome solutions may be outdated and could be improved.\n\n";
             string other = "";
             int count = 0;
             foreach (KeyValuePair<string, SortedSet<KattisProblem>> pair in table) {
