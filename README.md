@@ -1,7 +1,7 @@
-# Kattis Solution
+# Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 208 Problems | Languages |
+| 214 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -20,12 +20,15 @@ Some solutions may be outdated and could be improved.
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/anagramcounting.java) |
 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/anothercandies.java) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/apaxiaaans.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/apaxiaaans.java) |
+| [Arithmetic](https://open.kattis.com/problems/arithmetic) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/arithmetic.java) |
 | [Automatic Trading](https://open.kattis.com/problems/automatictrading) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/automatictrading.java) |
 | [Autori](https://open.kattis.com/problems/autori) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/autori.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/autori.java) |
+| [Average Speed](https://open.kattis.com/problems/averagespeed) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/averagespeed.java) |
 | [Babelfish](https://open.kattis.com/problems/babelfish) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/babelfish.java) |
 | [Baby Bites](https://open.kattis.com/problems/babybites) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/babybites.cpp) |
 | [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/babylonian.java) |
 | [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/backspace.java) |
+| [Baloni](https://open.kattis.com/problems/baloni) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/baloni.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
 | [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beautifulprimes.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
@@ -77,6 +80,7 @@ Some solutions may be outdated and could be improved.
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/grassseed.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/grassseed.java) |
 | [Guess the Number](https://open.kattis.com/problems/guess) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/guess.java) |
 | [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/guessinggame.java) |
+| [H to O](https://open.kattis.com/problems/htoo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/htoo.java) |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hangingout.java) |
 | [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/happyprime.java) |
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/harshadnumbers.cpp) |
@@ -87,6 +91,7 @@ Some solutions may be outdated and could be improved.
 | [Herman](https://open.kattis.com/problems/herman) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/herman.java) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hidden.java) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hissingmicrophone.java) |
+| [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/howmanydigits.cpp) |
 | [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/iwannabe.java) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/icpcawards.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/icpcawards.java) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/isithalloween.java) |
@@ -137,6 +142,7 @@ Some solutions may be outdated and could be improved.
 | [Pot](https://open.kattis.com/problems/pot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pot.java) |
 | [Prime Matrix](https://open.kattis.com/problems/primematrix) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primematrix.java) |
 | [Prime Reduction](https://open.kattis.com/problems/primereduction) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primereduction.java) |
+| [Printing Costs](https://open.kattis.com/problems/printingcosts) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/printingcosts.cpp) |
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/provincesandgold.cpp) |
 | [Prozor](https://open.kattis.com/problems/prozor) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/prozor.cpp) |
 | [Prsteni](https://open.kattis.com/problems/prsteni) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/prsteni.cpp) |
