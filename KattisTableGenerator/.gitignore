@@ -8,8 +8,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-Kattis.Table.Generator.v1.0.1/
-Kattis.Table.Generator.v1.0.1.zip
+Kattis.Table.Generator.v2.0.0/
+Kattis.Table.Generator.v2.0.0.zip
 KattisTableGenerator/KattisTableGenerator/*.txt
 KattisMapGenerator/KattisMapGenerator/*.txt
 
