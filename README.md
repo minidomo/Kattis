@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 231 Problems | Languages |
+| 232 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -107,6 +107,7 @@ Some solutions may be outdated and could be improved.
 | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/islands.java) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/everywhere.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/everywhere.java) |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/judgingmoose.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/judgingmoose.java) |
+| [Jumbled Compass](https://open.kattis.com/problems/compass) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/compass.cpp) |
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/justaminute.java) |
 | [Karte](https://open.kattis.com/problems/karte) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/karte.java) |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kemija08.java) |
