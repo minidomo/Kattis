@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 235 Problems | Languages |
+| 236 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -221,6 +221,7 @@ Some solutions may be outdated and could be improved.
 | [Tetration](https://open.kattis.com/problems/tetration) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tetration.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tetration.java) |
 | [Texture Analysis](https://open.kattis.com/problems/textureanalysis) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/textureanalysis.java) |
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/humancannonball2.cpp) |
+| [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/thebackslashproblem.java) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/easiest.java) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/owlandfox.java) |
 | [ToLower](https://open.kattis.com/problems/tolower) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tolower.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tolower.java) |
