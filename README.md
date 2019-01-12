@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 232 Problems | Languages |
+| 235 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -31,6 +31,7 @@ Some solutions may be outdated and could be improved.
 | [Baloni](https://open.kattis.com/problems/baloni) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/baloni.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bard.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/batterup.java) |
+| [Beat the Spread!](https://open.kattis.com/problems/beatspread) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beatspread.cpp) |
 | [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beautifulprimes.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beautifulprimes.java) |
 | [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/beavergnaw.cpp) |
 | [Bee House Perimeter](https://open.kattis.com/problems/beehouseperimeter) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beehouseperimeter.java) |
@@ -127,6 +128,7 @@ Some solutions may be outdated and could be improved.
 | [Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/modulo.java) |
 | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/musicyourway.java) |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/nastyhacks.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/nastyhacks.java) |
+| [Natrij](https://open.kattis.com/problems/natrij) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/natrij.java) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/nodup.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/nodup.java) |
 | [Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/nonprimefactors.cpp) |
 | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/npuzzle.java) |
@@ -226,6 +228,7 @@ Some solutions may be outdated and could be improved.
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/trik.java) |
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trollhunt.cs) |
+| [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/turtlemaster.java) |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/zoo.java) |
 | [Union-Find](https://open.kattis.com/problems/unionfind) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/unionfind.java) |
 | [Vacuumba](https://open.kattis.com/problems/vacuumba) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/vacuumba.java) |
