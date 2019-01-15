@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 236 Problems | Languages |
+| 238 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -53,6 +53,8 @@ Some solutions may be outdated and could be improved.
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/compoundwords.java) |
 | [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/conquestcampaign.cpp) |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/convexpolygonarea.cpp) |
+| [Costume Contest](https://open.kattis.com/problems/costumecontest) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/costumecontest.java) |
+| [Counting Stars](https://open.kattis.com/problems/countingstars) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/countingstars.java) |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/conundrum.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/conundrum.java) |
 | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/cudoviste.cpp) |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/dasblinkenlights.cpp) |
