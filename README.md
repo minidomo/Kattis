@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 238 Problems | Languages |
+| 241 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -116,6 +116,7 @@ Some solutions may be outdated and could be improved.
 | [Kemija](https://open.kattis.com/problems/kemija08) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kemija08.java) |
 | [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/kitten.cs) |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/kornislav.java) |
+| [Križaljka](https://open.kattis.com/problems/krizaljka) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/krizaljka.cpp) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/ladder.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/ladder.java) |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/lastfactorialdigit.java) |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/leftbeehind.cpp) |
@@ -124,6 +125,7 @@ Some solutions may be outdated and could be improved.
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/lineup.cs) |
 | [Low Order Zeros](https://open.kattis.com/problems/loworderzeros) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/loworderzeros.cpp) |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/luhnchecksum.cpp) |
+| [Marko](https://open.kattis.com/problems/marko) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/marko.cpp) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/metaprogramming.cs) |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mirror.java) |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mixedfractions.java) |
@@ -195,6 +197,7 @@ Some solutions may be outdated and could be improved.
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simonsays.java) |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/simpleaddition.cs) |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/simplicity.java) |
+| [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/shortestpath1.java) |
 | [Skener](https://open.kattis.com/problems/skener) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skener.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skener.java) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/skocimis.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/skocimis.java) |
 | [Slatkisi](https://open.kattis.com/problems/slatkisi) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/slatkisi.java) |
