@@ -1,12 +1,13 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 241 Problems | Languages |
+| 244 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
 | [A List Game](https://open.kattis.com/problems/listgame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/listgame.java) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/anewalphabet.cpp) |
+| [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/rationalsequence2.java) |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/areal.cpp) |
 | [A Towering Problem](https://open.kattis.com/problems/towering) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/towering.java) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/aaah.java) |
@@ -101,6 +102,7 @@ Some solutions may be outdated and could be improved.
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/helpaphd.java) |
 | [Herman](https://open.kattis.com/problems/herman) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/herman.java) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hidden.java) |
+| [H-Index](https://open.kattis.com/problems/hindex) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/hindex.cpp) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/hissingmicrophone.java) |
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/howmanydigits.cpp) |
 | [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/iwannabe.java) |
@@ -230,6 +232,7 @@ Some solutions may be outdated and could be improved.
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/easiest.java) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/owlandfox.java) |
 | [ToLower](https://open.kattis.com/problems/tolower) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tolower.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tolower.java) |
+| [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/torn2pieces.java) |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/trik.java) |
