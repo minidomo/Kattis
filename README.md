@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 244 Problems | Languages |
+| 246 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -39,6 +39,7 @@ Some solutions may be outdated and could be improved.
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/beekeeper.java) |
 | [Bela](https://open.kattis.com/problems/bela) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bela.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bela.java) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/bijele.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bijele.java) |
+| [Bing It On](https://open.kattis.com/problems/bing) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bing.java) |
 | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/birds.java) |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/bitbybit.cpp) |
 | [Bits](https://open.kattis.com/problems/bits) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/bits.cpp) |
@@ -74,6 +75,7 @@ Some solutions may be outdated and could be improved.
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/encodedmessage.java) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/engineeringenglish.java) |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/erase.java) |
+| [Erratic Ants](https://open.kattis.com/problems/erraticants) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/erraticants.cs), [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/erraticants.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/erraticants.java) |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/estimatingtheareaofacircle.java) |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/eulersnumber.java) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/faktor.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/faktor.java) |
