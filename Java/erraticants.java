@@ -1,6 +1,5 @@
 import java.util.*;
 
-@SuppressWarnings("unchecked")
 public class erraticants {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
@@ -8,11 +7,10 @@ public class erraticants {
         while (n-- > 0) {
             int s = sc.nextInt();
             int r = s, c = s;
-            HashSet<Integer>[] nodes = new HashSet[32000];
-            for (int x = 0; x < nodes.length; x++)
-                nodes[x] = new HashSet<>();
+            HashMap<String, HashSet<String>> nodes = new HashMap<>();
+            nodes.put(s + " " + s, new HashSet<>());
             for (int x = 0; x < s; x++) {
-                int q = hash(r, c);
+                String prev = r + " " + c;
                 char a = sc.next().charAt(0);
                 if (a == 'N')
                     r--;
@@ -22,34 +20,40 @@ public class erraticants {
                     c--;
                 else
                     c++;
-                int w = hash(r, c);
-                nodes[w].add(q);
-                nodes[q].add(w);
+                String cur = r + " " + c;
+                if (!nodes.containsKey(cur))
+                    nodes.put(cur, new HashSet<>());
+                nodes.get(prev).add(cur);
+                nodes.get(cur).add(prev);
             }
-            int end = hash(r, c);
-            HashSet<Integer> visit = new HashSet<>();
-            ArrayDeque<int[]> q = new ArrayDeque<>();
-            q.offer(new int[] { hash(s, s), 0 });
+            int d = 0;
+            HashSet<String> visit = new HashSet<>();
+            ArrayDeque<Pair> q = new ArrayDeque<>();
+            q.offer(new Pair(s + " " + s, 0));
             while (!q.isEmpty()) {
-                int[] cur = q.poll();
-                int h = cur[0];
-                if (h == end) {
-                    System.out.println(cur[1]);
+                Pair cur = q.poll();
+                if (cur.s.equals(r + " " + c)) {
+                    d = cur.c;
                     break;
                 }
-                if (visit.contains(h))
+                if (visit.contains(cur.s))
                     continue;
-                visit.add(h);
-                for (int x : nodes[h])
-                    if (!visit.contains(x))
-                        q.offer(new int[] { x, cur[1] + 1 });
+                visit.add(cur.s);
+                for (String a : nodes.get(cur.s))
+                    q.offer(new Pair(a, cur.c + 1));
             }
+            System.out.println(d);
         }
         sc.close();
     }
+}
 
-    private static int hash(int a, int b) {
-        int res = a * ((1 << 8) - 1);
-        return res ^ b;
+class Pair {
+    String s;
+    int c;
+
+    public Pair(String q, int w) {
+        s = q;
+        c = w;
     }
 }
