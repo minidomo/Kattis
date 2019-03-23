@@ -11,8 +11,6 @@ public class 10kindsofpeople {
 
     public static void main(String[] args) throws Exception {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
-        for (int x = 0; x < MAX2; x++)
-            H[x] = x;
         String[] line = sc.readLine().split(" ");
         R = Integer.parseInt(line[0]);
         C = Integer.parseInt(line[1]);
@@ -44,6 +42,7 @@ public class 10kindsofpeople {
         q.offer(new int[] { r, c });
         visit[r][c] = true;
         int h = hash(r, c);
+        H[h] = h;
         while (!q.isEmpty()) {
             int[] cur = q.poll();
             int r1 = cur[0];
