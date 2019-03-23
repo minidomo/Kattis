@@ -1,8 +1,9 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 248 Problems | Languages |
+| 249 Problems | Languages |
 | - | - |
+| [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
 | [A List Game](https://open.kattis.com/problems/listgame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/listgame.java) |
