@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 247 Problems | Languages |
+| 248 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -84,6 +84,7 @@ Some solutions may be outdated and could be improved.
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/falsesecurity.java) |
 | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fenwick.java) |
 | [Filip](https://open.kattis.com/problems/filip) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/filip.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/filip.java) |
+| [Firefly](https://open.kattis.com/problems/firefly) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/firefly.java) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/fizzbuzz.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fizzbuzz.java) |
 | [Free Food](https://open.kattis.com/problems/freefood) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/freefood.cpp), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/freefood.java) |
 | [Fridge](https://open.kattis.com/problems/fridge) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/fridge.java) |
