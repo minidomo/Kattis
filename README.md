@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 246 Problems | Languages |
+| 247 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/different.java) |
@@ -43,6 +43,7 @@ Some solutions may be outdated and could be improved.
 | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/birds.java) |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/bitbybit.cpp) |
 | [Bits](https://open.kattis.com/problems/bits) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/bits.cpp) |
+| [Boastin' Red Socks](https://open.kattis.com/problems/redsocks) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/redsocks.java) |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/boatparts.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/boatparts.java) |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bookingaroom.java) |
 | [Bus](https://open.kattis.com/problems/bus) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bus.java) |
