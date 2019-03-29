@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 249 Problems | Languages |
+| 250 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -165,6 +165,7 @@ Some solutions may be outdated and could be improved.
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pokerhand.java) |
 | [Popular Vote](https://open.kattis.com/problems/vote) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/vote.java) |
 | [Pot](https://open.kattis.com/problems/pot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pot.java) |
+| [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/primaryarithmetic.cpp) |
 | [Prime Matrix](https://open.kattis.com/problems/primematrix) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primematrix.java) |
 | [Prime Reduction](https://open.kattis.com/problems/primereduction) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primereduction.java) |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/printingcosts.cpp) |
