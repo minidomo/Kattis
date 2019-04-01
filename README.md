@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 250 Problems | Languages |
+| 251 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -95,6 +95,7 @@ Some solutions may be outdated and could be improved.
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/goatrope.cpp) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/grassseed.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/grassseed.java) |
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/greedilyincreasing.cpp) |
+| [Grid](https://open.kattis.com/problems/grid) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/grid.cpp) |
 | [Guess the Number](https://open.kattis.com/problems/guess) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/guess.java) |
 | [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/guessinggame.java) |
 | [H to O](https://open.kattis.com/problems/htoo) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/htoo.java) |
