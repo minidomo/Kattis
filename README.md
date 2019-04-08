@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 251 Problems | Languages |
+| 254 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -52,6 +52,7 @@ Some solutions may be outdated and could be improved.
 | [CD](https://open.kattis.com/problems/cd) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cd.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cd.java) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cetvrta.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cetvrta.java) |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/chanukah.java) |
+| [Checking For Correctness](https://open.kattis.com/problems/checkingforcorrectness) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/checkingforcorrectness.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cold.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cold.java) |
 | [Combination Lock](https://open.kattis.com/problems/combinationlock) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/combinationlock.java) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/compoundwords.java) |
@@ -155,6 +156,7 @@ Some solutions may be outdated and could be improved.
 | [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking.java) |
 | [Parking](https://open.kattis.com/problems/parking2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/parking2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parking2.java) |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/parsinghex.java) |
+| [Pascal](https://open.kattis.com/problems/pascal) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/pascal.cpp) |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/patuljci.cpp) |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/pauleigon.cpp) |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/permutedarithmeticsequence.java) |
@@ -166,6 +168,7 @@ Some solutions may be outdated and could be improved.
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pokerhand.java) |
 | [Popular Vote](https://open.kattis.com/problems/vote) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/vote.java) |
 | [Pot](https://open.kattis.com/problems/pot) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/pot.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/pot.java) |
+| [Primal Representation](https://open.kattis.com/problems/primalrepresentation) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primalrepresentation.java) |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/primaryarithmetic.cpp) |
 | [Prime Matrix](https://open.kattis.com/problems/primematrix) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primematrix.java) |
 | [Prime Reduction](https://open.kattis.com/problems/primereduction) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/primereduction.java) |
