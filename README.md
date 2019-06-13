@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be improved.
 
-| 254 Problems | Languages |
+| 255 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -233,6 +233,7 @@ Some solutions may be outdated and could be improved.
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sumsquareddigits.java) |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/symmetricorder.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/symmetricorder.java) |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/synchronizinglists.java) |
+| [Tai's formula](https://open.kattis.com/problems/taisformula) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/taisformula.java) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/twostones.java) |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tarifa.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tarifa.java) |
 | [Tetration](https://open.kattis.com/problems/tetration) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/tetration.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/tetration.java) |
