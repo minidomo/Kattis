@@ -1,5 +1,6 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
+
 | 258 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
