@@ -1,7 +1,6 @@
 # Kattis Solutions
-Some solutions may be outdated and could be improved.
-
-| 255 Problems | Languages |
+Some solutions may be outdated and could be revised.
+| 258 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -47,12 +46,14 @@ Some solutions may be outdated and could be improved.
 | [Boastin' Red Socks](https://open.kattis.com/problems/redsocks) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/redsocks.java) |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/boatparts.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/boatparts.java) |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bookingaroom.java) |
+| [Broken Swords](https://open.kattis.com/problems/brokenswords) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/brokenswords.cpp) |
 | [Bus](https://open.kattis.com/problems/bus) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/bus.java) |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/busnumbers.java) |
 | [CD](https://open.kattis.com/problems/cd) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cd.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cd.java) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cetvrta.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cetvrta.java) |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/chanukah.java) |
 | [Checking For Correctness](https://open.kattis.com/problems/checkingforcorrectness) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/checkingforcorrectness.java) |
+| [Climbing Worm](https://open.kattis.com/problems/climbingworm) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/climbingworm.cpp) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/cold.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/cold.java) |
 | [Combination Lock](https://open.kattis.com/problems/combinationlock) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/combinationlock.java) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/compoundwords.java) |
@@ -135,6 +136,7 @@ Some solutions may be outdated and could be improved.
 | [Low Order Zeros](https://open.kattis.com/problems/loworderzeros) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/loworderzeros.cpp) |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/luhnchecksum.cpp) |
 | [Marko](https://open.kattis.com/problems/marko) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/marko.cpp) |
+| [Math Homework](https://open.kattis.com/problems/mathhomework) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/mathhomework.cpp) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/metaprogramming.cs) |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mirror.java) |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/mixedfractions.java) |
