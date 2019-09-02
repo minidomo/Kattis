@@ -219,7 +219,7 @@ Some solutions may be outdated and could be revised.
 | [Slikar](https://open.kattis.com/problems/slikar) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/slikar.java) |
 | [Smallest Multiple](https://open.kattis.com/problems/smallestmultiple) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/smallestmultiple.java) |
 | [So You Like Your Food Hot?](https://open.kattis.com/problems/soyoulikeyourfoodhot) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/soyoulikeyourfoodhot.java) |
-| [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodasurpler.cpp) |
+| [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sodaslurper.cpp) |
 | [Sok](https://open.kattis.com/problems/sok) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/sok.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/carrots.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/carrots.java) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/sortofsorting.java) |
