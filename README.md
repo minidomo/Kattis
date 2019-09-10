@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 258 Problems | Languages |
+| 259 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/2048.java) |
@@ -189,6 +189,7 @@ Some solutions may be outdated and could be revised.
 | [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/racingalphabet.java) |
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/raggedright.java) |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [C#](https://github.com/MiniDomo/Kattis/blob/master/C%23/railroad2.cs), [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/railroad2.java) |
+| [Recount](https://open.kattis.com/problems/recount) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/recount.java) |
 | [Relocation](https://open.kattis.com/problems/relocation) | [C++](https://github.com/MiniDomo/Kattis/blob/master/C%2B%2B/relocation.cpp) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/repeatingdecimal.java) |
 | [Reseto](https://open.kattis.com/problems/reseto) | [Java](https://github.com/MiniDomo/Kattis/blob/master/Java/reseto.java) |
