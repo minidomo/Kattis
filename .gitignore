@@ -1,2 +1,4 @@
 *.class
 *.exe
+.vscode
+wip/
