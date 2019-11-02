@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 262 Problems | Languages |
+| 263 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -118,6 +118,7 @@ Some solutions may be outdated and could be revised.
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/howmanydigits.cpp) |
 | [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/iwannabe.java) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/icpcawards.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/icpcawards.java) |
+| [Integer Division](https://open.kattis.com/problems/integerdivision) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/integerdivision.java) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/isithalloween.java) |
 | [Islands](https://open.kattis.com/problems/islands3) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/islands3.java) |
 | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/islands.java) |
