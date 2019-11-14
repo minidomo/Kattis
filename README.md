@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 263 Problems | Languages |
+| 267 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -15,6 +15,7 @@ Some solutions may be outdated and could be revised.
 | [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/abc.java) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/aboveaverage.java) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/acm.java) |
+| [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/addemup.java) |
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/addingwords.java) |
 | [Akcija](https://open.kattis.com/problems/akcija) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/akcija.cpp) |
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/almostperfect.java) |
@@ -33,6 +34,7 @@ Some solutions may be outdated and could be revised.
 | [Backspace](https://open.kattis.com/problems/backspace) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/backspace.java) |
 | [Baloni](https://open.kattis.com/problems/baloni) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/baloni.java) |
 | [Bard](https://open.kattis.com/problems/bard) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/bard.java) |
+| [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/basketballoneonone.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/batterup.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/batterup.java) |
 | [Beat the Spread!](https://open.kattis.com/problems/beatspread) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/beatspread.cpp) |
 | [Beautiful Primes](https://open.kattis.com/problems/beautifulprimes) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/beautifulprimes.cpp), [Java](https://github.com/minidomo/Kattis/blob/master/Java/beautifulprimes.java) |
@@ -116,6 +118,7 @@ Some solutions may be outdated and could be revised.
 | [H-Index](https://open.kattis.com/problems/hindex) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/hindex.cpp) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/hissingmicrophone.java) |
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/howmanydigits.cpp) |
+| [Howl](https://open.kattis.com/problems/howl) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/howl.cpp) |
 | [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/iwannabe.java) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/icpcawards.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/icpcawards.java) |
 | [Integer Division](https://open.kattis.com/problems/integerdivision) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/integerdivision.java) |
@@ -225,6 +228,7 @@ Some solutions may be outdated and could be revised.
 | [Smallest Multiple](https://open.kattis.com/problems/smallestmultiple) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/smallestmultiple.java) |
 | [So You Like Your Food Hot?](https://open.kattis.com/problems/soyoulikeyourfoodhot) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/soyoulikeyourfoodhot.java) |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/sodaslurper.cpp) |
+| [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/softpasswords.java) |
 | [Sok](https://open.kattis.com/problems/sok) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/sok.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/carrots.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/carrots.java) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/sortofsorting.java) |
