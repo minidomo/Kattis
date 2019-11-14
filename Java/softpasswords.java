@@ -19,7 +19,6 @@ public class softpasswords {
                         opp += Character.toLowerCase(cur);
                     else
                         opp += Character.toUpperCase(cur);
-
                 else
                     opp += cur;
             }
