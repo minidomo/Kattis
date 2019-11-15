@@ -56,7 +56,6 @@ public class addemup {
             }
         }
         System.out.println("NO");
-        return;
     }
 
     static int fl(int a) {
