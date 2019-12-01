@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 267 Problems | Languages |
+| 270 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -77,6 +77,7 @@ Some solutions may be outdated and could be revised.
 | [Different Distances](https://open.kattis.com/problems/differentdistances) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/differentdistances.java) |
 | [Digital display](https://open.kattis.com/problems/display) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/display.java) |
 | [Digits](https://open.kattis.com/problems/digits) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/digits.java) |
+| [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/downtime.java) |
 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/divideby100.cpp) |
 | [Dreamer](https://open.kattis.com/problems/dreamer) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/dreamer.cpp) |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/drmmessages.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/drmmessages.java) |
@@ -243,6 +244,7 @@ Some solutions may be outdated and could be revised.
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumkindofproblem.java) |
 | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/sumoftheothers.cpp), [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumoftheothers.java) |
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumsquareddigits.java) |
+| [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/supercomputer.java) |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/symmetricorder.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/symmetricorder.java) |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/synchronizinglists.java) |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/taisformula.java) |
@@ -254,6 +256,7 @@ Some solutions may be outdated and could be revised.
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thebackslashproblem.java) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/easiest.java) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/owlandfox.java) |
+| [Tired Terry](https://open.kattis.com/problems/tiredterry) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/tiredterry.java) |
 | [ToLower](https://open.kattis.com/problems/tolower) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/tolower.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/tolower.java) |
 | [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/torn2pieces.java) |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
