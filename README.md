@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 286 Problems | Languages |
+| 287 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -264,6 +264,7 @@ Some solutions may be outdated and could be revised.
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/taisformula.java) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/twostones.java) |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/tarifa.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/tarifa.java) |
+| [Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/teacherevaluation.java) |
 | [Tetration](https://open.kattis.com/problems/tetration) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/tetration.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/tetration.java) |
 | [Texture Analysis](https://open.kattis.com/problems/textureanalysis) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/textureanalysis.java) |
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/humancannonball2.cpp) |
