@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 288 Problems | Languages |
+| 298 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -26,6 +26,7 @@ Some solutions may be outdated and could be revised.
 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/anothercandies.java) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/apaxiaaans.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/apaxiaaans.java) |
 | [Arithmetic](https://open.kattis.com/problems/arithmetic) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/arithmetic.java) |
+| [Astro](https://open.kattis.com/problems/astro) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/astro.java) |
 | [Automatic Trading](https://open.kattis.com/problems/automatictrading) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/automatictrading.java) |
 | [Autori](https://open.kattis.com/problems/autori) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/autori.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/autori.java) |
 | [Average Speed](https://open.kattis.com/problems/averagespeed) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/averagespeed.java) |
@@ -106,6 +107,7 @@ Some solutions may be outdated and could be revised.
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/froshweek2.java) |
 | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/frosting.java) |
 | [Fundamental Neighbors](https://open.kattis.com/problems/fundamentalneighbors) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/fundamentalneighbors.cpp) |
+| [Game of Throwns](https://open.kattis.com/problems/throwns) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/throwns.java) |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/gerrymandering.java) |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/goatrope.cpp) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/grassseed.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/grassseed.java) |
@@ -115,6 +117,7 @@ Some solutions may be outdated and could be revised.
 | [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/guessinggame.java) |
 | [H to O](https://open.kattis.com/problems/htoo) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/htoo.java) |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/hangingout.java) |
+| [Hangman](https://open.kattis.com/problems/hangman) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/hangman.java) |
 | [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/happyprime.java) |
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/harshadnumbers.cpp) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/heartrate.cpp) |
@@ -136,6 +139,7 @@ Some solutions may be outdated and could be revised.
 | [Islands](https://open.kattis.com/problems/islands3) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/islands3.java) |
 | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/islands.java) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/everywhere.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/everywhere.java) |
+| [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/janitortroubles.java) |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/jobexpenses.java) |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/judgingmoose.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/judgingmoose.java) |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/compass.cpp) |
@@ -155,12 +159,15 @@ Some solutions may be outdated and could be revised.
 | [Low Order Zeros](https://open.kattis.com/problems/loworderzeros) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/loworderzeros.cpp) |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/luhnchecksum.cpp) |
 | [Marko](https://open.kattis.com/problems/marko) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/marko.cpp) |
+| [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/mastermind.java) |
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/mathhomework.cpp) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/metaprogramming.cs) |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/mirror.java) |
+| [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/missingnumbers.java) |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/mixedfractions.java) |
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/mjehuric.java) |
 | [Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/modulo.java) |
+| [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/moscowdream.java) |
 | [Mosquito Multiplication](https://open.kattis.com/problems/mosquito) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/mosquito.java) |
 | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/musicyourway.java) |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/nastyhacks.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/nastyhacks.java) |
@@ -176,6 +183,8 @@ Some solutions may be outdated and could be revised.
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/onechicken.java) |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/ostgotska.java) |
 | [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/pachydermpeanutpacking.java) |
+| [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/pairingsocks.java) |
+| [Palindromic Password](https://open.kattis.com/problems/palindromicpassword) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/palindromicpassword.java) |
 | [Parking](https://open.kattis.com/problems/parking) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/parking.java) |
 | [Parking](https://open.kattis.com/problems/parking2) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/parking2.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/parking2.java) |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/parsinghex.java) |
@@ -271,6 +280,7 @@ Some solutions may be outdated and could be revised.
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/humancannonball2.cpp) |
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thebackslashproblem.java) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/easiest.java) |
+| [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thegrandadventure.java) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/owlandfox.java) |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thisaintyourgrandpascheckerboard.java) |
 | [Tired Terry](https://open.kattis.com/problems/tiredterry) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/tiredterry.java) |
