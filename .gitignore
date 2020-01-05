@@ -1,5 +1,6 @@
 *.class
 *.exe
+*.txt
 generator/
 .vscode
 wip/
