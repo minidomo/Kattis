@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 306 Problems | Languages |
+| 310 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -65,6 +65,7 @@ Some solutions may be outdated and could be revised.
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/chartingprogress.java) |
 | [Checking For Correctness](https://open.kattis.com/problems/checkingforcorrectness) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/checkingforcorrectness.java) |
 | [Climbing Worm](https://open.kattis.com/problems/climbingworm) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/climbingworm.cpp) |
+| [Coast Length](https://open.kattis.com/problems/coast) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/coast.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/cold.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/cold.java) |
 | [Combination Lock](https://open.kattis.com/problems/combinationlock) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/combinationlock.java) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/compoundwords.java) |
@@ -87,6 +88,7 @@ Some solutions may be outdated and could be revised.
 | [Digits](https://open.kattis.com/problems/digits) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/digits.java) |
 | [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/downtime.java) |
 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/divideby100.cpp) |
+| [Dominoes 2](https://open.kattis.com/problems/dominoes2) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/dominoes2.java) |
 | [Dreamer](https://open.kattis.com/problems/dreamer) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/dreamer.cpp) |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/drmmessages.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/drmmessages.java) |
 | [Egypt](https://open.kattis.com/problems/egypt) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/egypt.cpp) |
@@ -226,6 +228,7 @@ Some solutions may be outdated and could be revised.
 | [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/racingalphabet.java) |
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/raggedright.java) |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/railroad2.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/railroad2.java) |
+| [Reachable Roads](https://open.kattis.com/problems/reachableroads) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/reachableroads.java) |
 | [Recount](https://open.kattis.com/problems/recount) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/recount.java) |
 | [Relocation](https://open.kattis.com/problems/relocation) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/relocation.cpp) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/repeatingdecimal.java) |
@@ -306,6 +309,7 @@ Some solutions may be outdated and could be revised.
 | [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/variablearithmetic.java) |
 | [Veci](https://open.kattis.com/problems/veci) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/veci.cpp) |
 | [Volim](https://open.kattis.com/problems/volim) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/volim.cpp) |
+| [Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/wheresmyinternet.java) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/wordsfornumbers.java) |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/yoda.java) |
 | [Zamka](https://open.kattis.com/problems/zamka) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/zamka.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/zamka.java) |
