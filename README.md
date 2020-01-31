@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 310 Problems | Languages |
+| 311 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -93,6 +93,7 @@ Some solutions may be outdated and could be revised.
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/drmmessages.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/drmmessages.java) |
 | [Egypt](https://open.kattis.com/problems/egypt) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/egypt.cpp) |
 | [Election](https://open.kattis.com/problems/election) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/election.java) |
+| [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/elevatortrouble.java) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/encodedmessage.java) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/engineeringenglish.java) |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/epigdanceoff.java) |
