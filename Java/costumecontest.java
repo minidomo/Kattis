@@ -4,22 +4,17 @@ import java.util.*;
 public class costumecontest {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         TreeMap<String, Integer> map = new TreeMap<>();
-        int d = sc.nextInt();
-        sc.nextLine();
-        while (d-- > 0) {
-            String line = sc.nextLine();
-            if (!map.containsKey(line))
-                map.put(line, 0);
-            map.put(line, map.get(line) + 1);
+        while (n-- > 0) {
+            String s = sc.next();
+            map.put(s, map.containsKey(s) ? map.get(s) + 1 : 1);
         }
-        int min = Integer.MAX_VALUE;
-        for (int x : map.values())
-            if (x < min)
-                min = x;
-        for (Map.Entry<String, Integer> a : map.entrySet())
-            if (a.getValue() == min)
-                System.out.println(a.getKey());
-        sc.close();
+        int min = 10000;
+        for (String key : map.keySet())
+            min = Math.min(min, map.get(key));
+        for (String key : map.keySet())
+            if (map.get(key) == min)
+                System.out.println(key);
     }
 }
