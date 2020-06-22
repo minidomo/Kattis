@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 312 Problems | Languages |
+| 313 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -115,6 +115,7 @@ Some solutions may be outdated and could be revised.
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/froshweek2.java) |
 | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/frosting.java) |
 | [Fundamental Neighbors](https://open.kattis.com/problems/fundamentalneighbors) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/fundamentalneighbors.cpp) |
+| [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/gcpc.cpp) |
 | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/throwns.java) |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/gerrymandering.java) |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/goatrope.cpp) |
