@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 313 Problems | Languages |
+| 314 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -277,6 +277,7 @@ Some solutions may be outdated and could be revised.
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/zanzibar.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/zanzibar.java) |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/stararrangements.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/stararrangements.java) |
 | [Statistics](https://open.kattis.com/problems/statistics) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/statistics.cpp) |
+| [String Matching](https://open.kattis.com/problems/stringmatching) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/stringmatching.java) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/timeloop.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/timeloop.java) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumkindofproblem.java) |
 | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/sumoftheothers.cpp), [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumoftheothers.java) |
