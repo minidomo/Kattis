@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 314 Problems | Languages |
+| 318 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -21,6 +21,7 @@ Some solutions may be outdated and could be revised.
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/addingwords.java) |
 | [Akcija](https://open.kattis.com/problems/akcija) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/akcija.cpp) |
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/almostperfect.java) |
+| [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/alphabetanimals.cpp) |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/alphabetspam.java) |
 | [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/artichoke.java) |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/anagramcounting.java) |
@@ -106,6 +107,7 @@ Some solutions may be outdated and could be revised.
 | [Falling Apples](https://open.kattis.com/problems/apples) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/apples.java) |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/falsesecurity.java) |
 | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/fenwick.java) |
+| [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/fiftyshades.cpp) |
 | [Filip](https://open.kattis.com/problems/filip) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/filip.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/filip.java) |
 | [Firefly](https://open.kattis.com/problems/firefly) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/firefly.java) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/fizzbuzz.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/fizzbuzz.java) |
@@ -202,6 +204,7 @@ Some solutions may be outdated and could be revised.
 | [Pascal](https://open.kattis.com/problems/pascal) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/pascal.cpp) |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/patuljci.cpp) |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/pauleigon.cpp) |
+| [Perket](https://open.kattis.com/problems/perket) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/perket.java) |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/permutedarithmeticsequence.java) |
 | [Pet](https://open.kattis.com/problems/pet) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/pet.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/pet.java) |
 | [Phone List](https://open.kattis.com/problems/phonelist) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/phonelist.java) |
@@ -277,7 +280,7 @@ Some solutions may be outdated and could be revised.
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/zanzibar.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/zanzibar.java) |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/stararrangements.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/stararrangements.java) |
 | [Statistics](https://open.kattis.com/problems/statistics) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/statistics.cpp) |
-| [String Matching](https://open.kattis.com/problems/stringmatching) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/stringmatching.java) |
+| [String Matching](https://open.kattis.com/problems/stringmatching) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/stringmatching.cpp), [Java](https://github.com/minidomo/Kattis/blob/master/Java/stringmatching.java) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/timeloop.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/timeloop.java) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumkindofproblem.java) |
 | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/sumoftheothers.cpp), [Java](https://github.com/minidomo/Kattis/blob/master/Java/sumoftheothers.java) |
@@ -304,6 +307,7 @@ Some solutions may be outdated and could be revised.
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/trik.java) |
+| [Triple Texting](https://open.kattis.com/problems/tripletexting) | [C++](https://github.com/minidomo/Kattis/blob/master/Java/tripletexting.cpp) |
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/trollhunt.cs) |
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/turtlemaster.java) |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/zoo.java) |
