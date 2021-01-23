@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 326 Problems | Languages |
+| 328 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -164,6 +164,7 @@ Some solutions may be outdated and could be revised.
 | [Karte](https://open.kattis.com/problems/karte) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/karte.java) |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/kemija08.java) |
 | [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/kitten.cs) |
+| [Knight Jump](https://open.kattis.com/problems/knightjump) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/knightjump.cpp) |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/kornislav.java) |
 | [Križaljka](https://open.kattis.com/problems/krizaljka) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/krizaljka.cpp) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/ladder.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/ladder.java) |
@@ -305,6 +306,7 @@ Some solutions may be outdated and could be revised.
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thebackslashproblem.java) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/easiest.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/easiest.java) |
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thegrandadventure.java) |
+| [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/thelastproblem.cpp) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/owlandfox.java) |
 | [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/rectanglesurrounding.java) |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/thisaintyourgrandpascheckerboard.java) |
