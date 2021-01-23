@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 318 Problems | Languages |
+| 326 Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) |
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
@@ -85,6 +85,7 @@ Some solutions may be outdated and could be revised.
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/dicecup.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/dicecup.java) |
 | [Dice Game](https://open.kattis.com/problems/dicegame) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/dicegame.cpp) |
 | [Different Distances](https://open.kattis.com/problems/differentdistances) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/differentdistances.java) |
+| [Digit Product](https://open.kattis.com/problems/sifferprodukt) | [C](https://github.com/minidomo/Kattis/blob/master/C/sifferprodukt.c) |
 | [Digital display](https://open.kattis.com/problems/display) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/display.java) |
 | [Digits](https://open.kattis.com/problems/digits) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/digits.java) |
 | [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/downtime.java) |
@@ -94,6 +95,7 @@ Some solutions may be outdated and could be revised.
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/drmmessages.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/drmmessages.java) |
 | [Egypt](https://open.kattis.com/problems/egypt) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/egypt.cpp) |
 | [Election](https://open.kattis.com/problems/election) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/election.java) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [C](https://github.com/minidomo/Kattis/blob/master/C/electricaloutlets.c) |
 | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/elevatortrouble.java) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/encodedmessage.java) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/engineeringenglish.java) |
@@ -109,6 +111,7 @@ Some solutions may be outdated and could be revised.
 | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/fenwick.java) |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/fiftyshades.cpp) |
 | [Filip](https://open.kattis.com/problems/filip) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/filip.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/filip.java) |
+| [Final Exam](https://open.kattis.com/problems/finalexam2) | [C](https://github.com/minidomo/Kattis/blob/master/C/finalexam2.c) |
 | [Firefly](https://open.kattis.com/problems/firefly) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/firefly.java) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/fizzbuzz.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/fizzbuzz.java) |
 | [Flip Five](https://open.kattis.com/problems/flipfive) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/flipfive.java) |
@@ -123,6 +126,7 @@ Some solutions may be outdated and could be revised.
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/goatrope.cpp) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/grassseed.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/grassseed.java) |
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/greedilyincreasing.cpp) |
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [C](https://github.com/minidomo/Kattis/blob/master/C/greetings2.c) |
 | [Grid](https://open.kattis.com/problems/grid) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/grid.cpp) |
 | [Guess the Number](https://open.kattis.com/problems/guess) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/guess.java) |
 | [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/guessinggame.java) |
@@ -139,6 +143,7 @@ Some solutions may be outdated and could be revised.
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/hidden.java) |
 | [H-Index](https://open.kattis.com/problems/hindex) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/hindex.cpp) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/hissingmicrophone.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/hissingmicrophone.java) |
+| [Homework](https://open.kattis.com/problems/heimavinna) | [C](https://github.com/minidomo/Kattis/blob/master/C/heimavinna.c) |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/apaxianparent.java) |
 | [Hot Hike](https://open.kattis.com/problems/hothike) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/hothike.java) |
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/howmanydigits.cpp) |
@@ -239,6 +244,7 @@ Some solutions may be outdated and could be revised.
 | [Relocation](https://open.kattis.com/problems/relocation) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/relocation.cpp) |
 | [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/repeatingdecimal.java) |
 | [Reseto](https://open.kattis.com/problems/reseto) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/reseto.java) |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [C](https://github.com/minidomo/Kattis/blob/master/C/ofugsnuid.c) |
 | [Reverse Rot](https://open.kattis.com/problems/reverserot) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/reverserot.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/reverserot.java) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/reversebinary.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/reversebinary.java) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/rijeci.java) |
@@ -247,6 +253,7 @@ Some solutions may be outdated and could be revised.
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/rollcall.java) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/runlengthencodingrun.java) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/savingdaylight.java) |
+| [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [C](https://github.com/minidomo/Kattis/blob/master/C/savingforretirement.c) |
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [C++](https://github.com/minidomo/Kattis/blob/master/C%2B%2B/princesspeach.cpp) |
 | [Scaling Recipes](https://open.kattis.com/problems/recipes) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/recipes.java) |
 | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/scrollingsign.java) |
@@ -305,6 +312,7 @@ Some solutions may be outdated and could be revised.
 | [ToLower](https://open.kattis.com/problems/tolower) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/tolower.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/tolower.java) |
 | [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/torn2pieces.java) |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/touchscreenkeyboard.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/touchscreenkeyboard.java) |
+| [Tower Construction](https://open.kattis.com/problems/tornbygge) | [C](https://github.com/minidomo/Kattis/blob/master/C/tornbygge.c) |
 | [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/tri.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/trik.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/trik.java) |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [C++](https://github.com/minidomo/Kattis/blob/master/Java/tripletexting.cpp) |
